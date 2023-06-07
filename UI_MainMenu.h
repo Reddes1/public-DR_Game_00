@@ -62,7 +62,7 @@ private:
 	//UI Elements
 
 	//Background
-	EM_Sprite m_Background;
+	EM_Sprite m_Background[2];
 	//Menu option frames
 	EM_Sprite m_MenuFrames[MAX_MAIN_MENU_INDEXES];
 	//Menu option texts
