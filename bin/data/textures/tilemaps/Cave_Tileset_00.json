@@ -1,0 +1,19 @@
+{
+  "tilesets": [
+    {
+      "tilecount": 3072,
+      "columns": 64
+    }
+  ],
+
+  "image": "Cave_Tileset_00.png",
+  "imageheight": 1536,
+  "imagewidth": 2048,
+  "margin": 0,
+  "name": "Cave_Tileset_00",
+  "tiledversion": "1.9.0",
+  "tileheight": 32,
+  "tilewidth": 32,
+  "type": "tileset",
+  "version": "1.8"
+}

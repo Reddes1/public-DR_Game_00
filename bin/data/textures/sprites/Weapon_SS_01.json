@@ -1,0 +1,1684 @@
+{
+  "frames": [
+
+    {
+      "filename": "Angel/Angel_Idle/Angel_Idle_00.png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 236,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.775862
+      }
+    },
+    {
+      "filename": "Angel/Angel_Idle/Angel_Idle_01.png",
+      "frame": {
+        "x": 241,
+        "y": 1,
+        "w": 236,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.775862
+      }
+    },
+    {
+      "filename": "Angel/Angel_Idle/Angel_Idle_02.png",
+      "frame": {
+        "x": 481,
+        "y": 1,
+        "w": 236,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.775862
+      }
+    },
+    {
+      "filename": "Angel/Angel_Idle/Angel_Idle_03.png",
+      "frame": {
+        "x": 721,
+        "y": 1,
+        "w": 236,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.775862
+      }
+    },
+    {
+      "filename": "Angel/Angel_Idle/Angel_Idle_04.png",
+      "frame": {
+        "x": 961,
+        "y": 1,
+        "w": 236,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.775862
+      }
+    },
+    {
+      "filename": "Angel/Angel_Idle/Angel_Idle_05.png",
+      "frame": {
+        "x": 1201,
+        "y": 1,
+        "w": 236,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.775862
+      }
+    },
+    {
+      "filename": "Angel/Angel_Idle/Angel_Idle_06.png",
+      "frame": {
+        "x": 1441,
+        "y": 1,
+        "w": 236,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.775862
+      }
+    },
+    {
+      "filename": "Angel/Angel_Spawn/Angel_Spawn_00.png",
+      "frame": {
+        "x": 1681,
+        "y": 1,
+        "w": 134,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 40,
+        "w": 134,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 87
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.574712
+      }
+    },
+    {
+      "filename": "Angel/Angel_Spawn/Angel_Spawn_01.png",
+      "frame": {
+        "x": 1819,
+        "y": 1,
+        "w": 152,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 40,
+        "w": 152,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 152,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.657894
+      }
+    },
+    {
+      "filename": "Angel/Angel_Spawn/Angel_Spawn_02.png",
+      "frame": {
+        "x": 1975,
+        "y": 1,
+        "w": 184,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 41,
+        "w": 184,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 184,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.653333
+      }
+    },
+    {
+      "filename": "Angel/Angel_Spawn/Angel_Spawn_03.png",
+      "frame": {
+        "x": 2163,
+        "y": 1,
+        "w": 198,
+        "h": 86
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 30,
+        "w": 198,
+        "h": 86
+      },
+      "sourceSize": {
+        "w": 198,
+        "h": 86
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.697674
+      }
+    },
+    {
+      "filename": "Angel/Angel_Spawn/Angel_Spawn_04.png",
+      "frame": {
+        "x": 2365,
+        "y": 1,
+        "w": 222,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 0,
+        "w": 222,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 222,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.775862
+      }
+    },
+    {
+      "filename": "Angel/Angel_Spawn/Angel_Spawn_05.png",
+      "frame": {
+        "x": 2591,
+        "y": 1,
+        "w": 236,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.775862
+      }
+    },
+    {
+      "filename": "Angel/Angel_Spawn/Angel_Spawn_06.png",
+      "frame": {
+        "x": 2831,
+        "y": 1,
+        "w": 236,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 236,
+        "h": 116
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.775862
+      }
+    },
+    {
+      "filename": "Gate/Gate_Idle/Gate_Idle_00.png",
+      "frame": {
+        "x": 3071,
+        "y": 1,
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Idle/Gate_Idle_01.png",
+      "frame": {
+        "x": 3171,
+        "y": 1,
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Idle/Gate_Idle_02.png",
+      "frame": {
+        "x": 3271,
+        "y": 1,
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Idle/Gate_Idle_03.png",
+      "frame": {
+        "x": 3371,
+        "y": 1,
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Idle/Gate_Idle_04.png",
+      "frame": {
+        "x": 3471,
+        "y": 1,
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Idle/Gate_Idle_05.png",
+      "frame": {
+        "x": 3571,
+        "y": 1,
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Idle/Gate_Idle_06.png",
+      "frame": {
+        "x": 3671,
+        "y": 1,
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Idle/Gate_Idle_07.png",
+      "frame": {
+        "x": 3771,
+        "y": 1,
+        "w": 96,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 96,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Spawn/Gate_Spawn_00.png",
+      "frame": {
+        "x": 3871,
+        "y": 1,
+        "w": 6,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 119,
+        "y": 0,
+        "w": 6,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 6,
+        "h": 152
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Spawn/Gate_Spawn_01.png",
+      "frame": {
+        "x": 3881,
+        "y": 1,
+        "w": 10,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 117,
+        "y": 12,
+        "w": 10,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 10,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Spawn/Gate_Spawn_02.png",
+      "frame": {
+        "x": 3895,
+        "y": 1,
+        "w": 80,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 82,
+        "y": 21,
+        "w": 80,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Spawn/Gate_Spawn_03.png",
+      "frame": {
+        "x": 3979,
+        "y": 1,
+        "w": 106,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 69,
+        "y": 27,
+        "w": 106,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 106,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Spawn/Gate_Spawn_04.png",
+      "frame": {
+        "x": 1,
+        "y": 157,
+        "w": 130,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 23,
+        "w": 130,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Spawn/Gate_Spawn_05.png",
+      "frame": {
+        "x": 135,
+        "y": 157,
+        "w": 202,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 22,
+        "w": 202,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 108
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Gate/Gate_Spawn/Gate_Spawn_06.png",
+      "frame": {
+        "x": 341,
+        "y": 157,
+        "w": 244,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 22,
+        "w": 244,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 244,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.495413
+      }
+    },
+    {
+      "filename": "Gate/Gate_Spawn/Gate_Spawn_07.png",
+      "frame": {
+        "x": 589,
+        "y": 157,
+        "w": 98,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 25,
+        "w": 98,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 98,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.520408
+      }
+    },
+    {
+      "filename": "Light_Bullet/Light_Bullet_00.png",
+      "frame": {
+        "x": 691,
+        "y": 157,
+        "w": 46,
+        "h": 5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 6,
+        "w": 46,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 5
+      },
+      "pivot": {
+        "x": 0.597826,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Light_Bullet/Light_Bullet_01.png",
+      "frame": {
+        "x": 741,
+        "y": 157,
+        "w": 45,
+        "h": 9
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 4,
+        "w": 45,
+        "h": 9
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 9
+      },
+      "pivot": {
+        "x": 0.611111,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Light_Bullet/Light_Bullet_02.png",
+      "frame": {
+        "x": 790,
+        "y": 157,
+        "w": 51,
+        "h": 11
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 51,
+        "h": 11
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 11
+      },
+      "pivot": {
+        "x": 0.539216,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Light_Bullet/Light_Bullet_03.png",
+      "frame": {
+        "x": 845,
+        "y": 157,
+        "w": 55,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 17
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Light_Bullet/Light_Bullet_04.png",
+      "frame": {
+        "x": 904,
+        "y": 157,
+        "w": 55,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 55,
+        "h": 17
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Light_Bullet/Light_Bullet_05.png",
+      "frame": {
+        "x": 963,
+        "y": 157,
+        "w": 54,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 54,
+        "h": 17
+      },
+      "pivot": {
+        "x": 0.509259,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Vert_Beam/Beam_00.png",
+      "frame": {
+        "x": 1021,
+        "y": 157,
+        "w": 214,
+        "h": 1224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 0,
+        "w": 214,
+        "h": 1224
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 1224
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    {
+      "filename": "Vert_Beam/Beam_01.png",
+      "frame": {
+        "x": 1239,
+        "y": 157,
+        "w": 234,
+        "h": 1224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 0,
+        "w": 234,
+        "h": 1224
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 1224
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.96
+      }
+    },
+    {
+      "filename": "Vert_Beam/Beam_02.png",
+      "frame": {
+        "x": 1477,
+        "y": 157,
+        "w": 250,
+        "h": 1224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 250,
+        "h": 1224
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 1224
+      },
+      "pivot": {
+        "x": 0.492,
+        "y": 0.96
+      }
+    },
+    {
+      "filename": "Vert_Beam/Beam_03.png",
+      "frame": {
+        "x": 1731,
+        "y": 157,
+        "w": 265,
+        "h": 1224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 0,
+        "w": 265,
+        "h": 1224
+      },
+      "sourceSize": {
+        "w": 265,
+        "h": 1224
+      },
+      "pivot": {
+        "x": 0.49434,
+        "y": 0.96
+      }
+    },
+    {
+      "filename": "Vert_Beam/Beam_04.png",
+      "frame": {
+        "x": 2000,
+        "y": 157,
+        "w": 265,
+        "h": 1224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 265,
+        "h": 1224
+      },
+      "sourceSize": {
+        "w": 265,
+        "h": 1224
+      },
+      "pivot": {
+        "x": 0.50566,
+        "y": 0.96
+      }
+    },
+    {
+      "filename": "Vert_Beam/Beam_05.png",
+      "frame": {
+        "x": 2269,
+        "y": 157,
+        "w": 250,
+        "h": 1224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 250,
+        "h": 1224
+      },
+      "sourceSize": {
+        "w": 250,
+        "h": 1224
+      },
+      "pivot": {
+        "x": 0.492,
+        "y": 0.96
+      }
+    },
+    {
+      "filename": "Vert_Beam/Beam_06.png",
+      "frame": {
+        "x": 2523,
+        "y": 157,
+        "w": 230,
+        "h": 1224
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 230,
+        "h": 1224
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 1224
+      },
+      "pivot": {
+        "x": 0.534783,
+        "y": 0.96
+      }
+    },
+    {
+      "filename": "Vert_Beam/Beam_07.png",
+      "frame": {
+        "x": 2757,
+        "y": 157,
+        "w": 226,
+        "h": 1219
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 5,
+        "w": 226,
+        "h": 1219
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 1219
+      },
+      "pivot": {
+        "x": 0.544248,
+        "y": 0.959836
+      }
+    },
+    {
+      "filename": "Water_Dragon/Active/Water_Dragon_Active_00.png",
+      "frame": {
+        "x": 2987,
+        "y": 157,
+        "w": 803,
+        "h": 374
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 68,
+        "w": 803,
+        "h": 374
+      },
+      "sourceSize": {
+        "w": 803,
+        "h": 374
+      },
+      "pivot": {
+        "x": 0.488169,
+        "y": 0.462567
+      }
+    },
+    {
+      "filename": "Water_Dragon/Active/Water_Dragon_Active_01.png",
+      "frame": {
+        "x": 1,
+        "y": 1385,
+        "w": 746,
+        "h": 370
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 48,
+        "w": 746,
+        "h": 370
+      },
+      "sourceSize": {
+        "w": 746,
+        "h": 370
+      },
+      "pivot": {
+        "x": 0.495979,
+        "y": 0.521622
+      }
+    },
+    {
+      "filename": "Water_Dragon/Active/Water_Dragon_Active_02.png",
+      "frame": {
+        "x": 751,
+        "y": 1385,
+        "w": 746,
+        "h": 410
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 24,
+        "w": 746,
+        "h": 410
+      },
+      "sourceSize": {
+        "w": 746,
+        "h": 410
+      },
+      "pivot": {
+        "x": 0.525469,
+        "y": 0.529268
+      }
+    },
+    {
+      "filename": "Water_Dragon/Active/Water_Dragon_Active_03.png",
+      "frame": {
+        "x": 1501,
+        "y": 1385,
+        "w": 746,
+        "h": 418
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 16,
+        "w": 746,
+        "h": 418
+      },
+      "sourceSize": {
+        "w": 746,
+        "h": 418
+      },
+      "pivot": {
+        "x": 0.512064,
+        "y": 0.538278
+      }
+    },
+    {
+      "filename": "Water_Dragon/Active/Water_Dragon_Active_04.png",
+      "frame": {
+        "x": 2251,
+        "y": 1385,
+        "w": 758,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 0,
+        "w": 758,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 758,
+        "h": 430
+      },
+      "pivot": {
+        "x": 0.501319,
+        "y": 0.560465
+      }
+    },
+    {
+      "filename": "Water_Dragon/Active/Water_Dragon_Active_05.png",
+      "frame": {
+        "x": 3013,
+        "y": 1385,
+        "w": 766,
+        "h": 382
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 20,
+        "w": 766,
+        "h": 382
+      },
+      "sourceSize": {
+        "w": 766,
+        "h": 382
+      },
+      "pivot": {
+        "x": 0.498695,
+        "y": 0.578534
+      }
+    },
+    {
+      "filename": "Water_Dragon/Active/Water_Dragon_Active_06.png",
+      "frame": {
+        "x": 1,
+        "y": 1819,
+        "w": 796,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 44,
+        "w": 796,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 796,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.487437,
+        "y": 0.485222
+      }
+    },
+    {
+      "filename": "Water_Dragon/Active/Water_Dragon_Active_07.png",
+      "frame": {
+        "x": 801,
+        "y": 1819,
+        "w": 798,
+        "h": 414
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 40,
+        "w": 798,
+        "h": 414
+      },
+      "sourceSize": {
+        "w": 798,
+        "h": 414
+      },
+      "pivot": {
+        "x": 0.518797,
+        "y": 0.485507
+      }
+    },
+    {
+      "filename": "Water_Dragon/Despawn/Water_Dragon_Despawn_00.png",
+      "frame": {
+        "x": 1603,
+        "y": 1819,
+        "w": 803,
+        "h": 374
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 40,
+        "w": 803,
+        "h": 374
+      },
+      "sourceSize": {
+        "w": 803,
+        "h": 374
+      },
+      "pivot": {
+        "x": 0.488169,
+        "y": 0.537433
+      }
+    },
+    {
+      "filename": "Water_Dragon/Despawn/Water_Dragon_Despawn_01.png",
+      "frame": {
+        "x": 2410,
+        "y": 1819,
+        "w": 746,
+        "h": 370
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 48,
+        "w": 746,
+        "h": 370
+      },
+      "sourceSize": {
+        "w": 746,
+        "h": 370
+      },
+      "pivot": {
+        "x": 0.495979,
+        "y": 0.521622
+      }
+    },
+    {
+      "filename": "Water_Dragon/Despawn/Water_Dragon_Despawn_02.png",
+      "frame": {
+        "x": 3160,
+        "y": 1819,
+        "w": 746,
+        "h": 410
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 28,
+        "w": 746,
+        "h": 410
+      },
+      "sourceSize": {
+        "w": 746,
+        "h": 410
+      },
+      "pivot": {
+        "x": 0.504021,
+        "y": 0.519512
+      }
+    },
+    {
+      "filename": "Water_Dragon/Despawn/Water_Dragon_Despawn_03.png",
+      "frame": {
+        "x": 1,
+        "y": 2237,
+        "w": 746,
+        "h": 418
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 24,
+        "w": 746,
+        "h": 418
+      },
+      "sourceSize": {
+        "w": 746,
+        "h": 418
+      },
+      "pivot": {
+        "x": 0.512064,
+        "y": 0.519139
+      }
+    },
+    {
+      "filename": "Water_Dragon/Despawn/Water_Dragon_Despawn_04.png",
+      "frame": {
+        "x": 751,
+        "y": 2237,
+        "w": 758,
+        "h": 430
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 12,
+        "w": 758,
+        "h": 430
+      },
+      "sourceSize": {
+        "w": 758,
+        "h": 430
+      },
+      "pivot": {
+        "x": 0.485488,
+        "y": 0.532558
+      }
+    },
+    {
+      "filename": "Water_Dragon/Despawn/Water_Dragon_Despawn_05.png",
+      "frame": {
+        "x": 1513,
+        "y": 2237,
+        "w": 198,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 156,
+        "w": 198,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 198,
+        "h": 242
+      },
+      "pivot": {
+        "x": 1.88889,
+        "y": 0.35124
+      }
+    },
+    {
+      "filename": "Water_Dragon/Despawn/Water_Dragon_Despawn_06.png",
+      "frame": {
+        "x": 1715,
+        "y": 2237,
+        "w": 110,
+        "h": 186
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 140,
+        "w": 110,
+        "h": 186
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 186
+      },
+      "pivot": {
+        "x": 3.45455,
+        "y": 0.543011
+      }
+    },
+    {
+      "filename": "Water_Dragon/Spawn/Water_Dragon_Spawn_00.png",
+      "frame": {
+        "x": 1829,
+        "y": 2237,
+        "w": 454,
+        "h": 258
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 298,
+        "y": 68,
+        "w": 454,
+        "h": 258
+      },
+      "sourceSize": {
+        "w": 454,
+        "h": 258
+      },
+      "pivot": {
+        "x": 0.259912,
+        "y": 0.670543
+      }
+    },
+    {
+      "filename": "Water_Dragon/Spawn/Water_Dragon_Spawn_01.png",
+      "frame": {
+        "x": 2287,
+        "y": 2237,
+        "w": 506,
+        "h": 378
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 68,
+        "w": 506,
+        "h": 378
+      },
+      "sourceSize": {
+        "w": 506,
+        "h": 378
+      },
+      "pivot": {
+        "x": 0.197628,
+        "y": 0.457672
+      }
+    },
+    {
+      "filename": "Water_Dragon/Spawn/Water_Dragon_Spawn_02.png",
+      "frame": {
+        "x": 2797,
+        "y": 2237,
+        "w": 674,
+        "h": 406
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 142,
+        "y": 68,
+        "w": 674,
+        "h": 406
+      },
+      "sourceSize": {
+        "w": 674,
+        "h": 406
+      },
+      "pivot": {
+        "x": 0.406528,
+        "y": 0.426108
+      }
+    },
+    {
+      "filename": "Water_Dragon/Spawn/Water_Dragon_Spawn_03.png",
+      "frame": {
+        "x": 1,
+        "y": 2671,
+        "w": 798,
+        "h": 414
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 68,
+        "w": 798,
+        "h": 414
+      },
+      "sourceSize": {
+        "w": 798,
+        "h": 414
+      },
+      "pivot": {
+        "x": 0.506266,
+        "y": 0.417874
+      }
+    }
+  ],
+  "Animations": [
+    {
+      "Animation Name": "Angel_Idle_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 0,
+      "Animation End": 6,
+      "Animation Speed": 10,
+
+      "Animation Length": 7
+    },
+    {
+      "Animation Name": "Angel_Spawn_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 7,
+      "Animation End": 13,
+      "Animation Speed": 10,
+
+      "Animation Length": 7
+    },
+    {
+      "Animation Name": "Gate_Idle_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 14,
+      "Animation End": 21,
+      "Animation Speed": 12,
+
+      "Animation Length": 8
+    },
+    {
+      "Animation Name": "Gate_Spawn_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 22,
+      "Animation End": 29,
+      "Animation Speed": 12,
+
+      "Animation Length": 8
+    },
+    {
+      "Animation Name": "Light_Bullet_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 30,
+      "Animation End": 35,
+      "Animation Speed": 12,
+
+      "Animation Length": 6
+    },
+    {
+      "Animation Name": "Holy_Beam_Vertical_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 36,
+      "Animation End": 43,
+      "Animation Speed": 12,
+
+      "Animation Length": 8
+    },
+    {
+      "Animation Name": "Water_Dragon_Active_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 44,
+      "Animation End": 51,
+      "Animation Speed": 20,
+
+      "Animation Length": 8
+    },
+    {
+      "Animation Name": "Water_Dragon_Despawn_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 52,
+      "Animation End": 58,
+      "Animation Speed": 20,
+
+      "Animation Length": 7
+    },
+    {
+      "Animation Name": "Water_Dragon_Spawn_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 59,
+      "Animation End": 62,
+      "Animation Speed": 20,
+
+      "Animation Length": 4
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "Weapon_SS_01.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4096,
+      "h": 4096
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:4d3092789127e3fe17793f4b9321af5c:bf43eec312af5941aaf8e53b95ce0d40:9e1bed27956c6a2eb4c244c3ee713ec3$"
+  }
+}

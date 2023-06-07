@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{119f9168-b6fd-4678-bfd5-b7005187ca1a}</ProjectGuid>
+    <RootNamespace>DX122DSkeleton</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LibraryPath>$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);..\..\DirectXTK12\Bin\Desktop_2019_Win10\x64\Debug;</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)\bin\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LibraryPath>$(VC_LibraryPath_x64);$(WindowsSDK_LibraryPath_x64);..\..\DirectXTK12\Bin\Desktop_2019_Win10\x64\Release;</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>false</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <AdditionalIncludeDirectories>..\..\DirectXTK12\Inc;..\..\RapidJSON\include\rapidjson;</AdditionalIncludeDirectories>
+      <BrowseInformation>false</BrowseInformation>
+      <AdditionalOptions>/wd4005 /wd4996 %(AdditionalOptions)</AdditionalOptions>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader />
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <OutputFile>$(SolutionDir)/bin/$(TargetName)$(TargetExt)</OutputFile>
+      <AdditionalDependencies>directXTK12.lib;d3d12.lib;dxgi.lib;dxguid.lib;d3dcompiler.lib;Xinput9_1_0.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>false</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <AdditionalIncludeDirectories>..\..\DirectXTK12\Inc;..\..\RapidJSON\include\rapidjson;</AdditionalIncludeDirectories>
+      <AdditionalOptions>/wd4005 /wd4996</AdditionalOptions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <OutputFile>$(SolutionDir)/bin/$(TargetName)$(TargetExt)</OutputFile>
+      <AdditionalDependencies>directXTK12.lib;d3d12.lib;dxgi.lib;dxguid.lib;d3dcompiler.lib;Xinput9_1_0.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="2DCameraTypes.cpp" />
+    <ClCompile Include="FNP_Player.cpp" />
+    <ClCompile Include="Loot_Freeze.cpp" />
+    <ClCompile Include="Loot_Wipe.cpp" />
+    <ClCompile Include="CS_Survivor_00.cpp" />
+    <ClCompile Include="InputMaskInterface.cpp" />
+    <ClCompile Include="Projectile_BulletHell.cpp" />
+    <ClCompile Include="Projectile_HoH.cpp" />
+    <ClCompile Include="Projectile_HolyBeam.cpp" />
+    <ClCompile Include="Projectile_LightBullet.cpp" />
+    <ClCompile Include="Projectile_Lightning.cpp" />
+    <ClCompile Include="Projectile_WaterDragon.cpp" />
+    <ClCompile Include="All_Includes.h" />
+    <ClCompile Include="AudioManager.cpp" />
+    <ClCompile Include="CameraMovement.cpp" />
+    <ClCompile Include="CollisionTypes.cpp" />
+    <ClCompile Include="CS_Interface.cpp" />
+    <ClCompile Include="CS_Main_00.cpp" />
+    <ClCompile Include="CS_Platformer_00.cpp" />
+    <ClCompile Include="Effects_AnimSprite.cpp" />
+    <ClCompile Include="EM_Coordinates.cpp" />
+    <ClCompile Include="EM_FixedMovement.cpp" />
+    <ClCompile Include="EM_Animator.cpp" />
+    <ClCompile Include="EM_MultiSprite_Type1.cpp" />
+    <ClCompile Include="EM_Sprite.cpp" />
+    <ClCompile Include="Entity_EnemyType_00.cpp" />
+    <ClCompile Include="Entity_EnemyType_01.cpp" />
+    <ClCompile Include="Entity_EnemyType_02.cpp" />
+    <ClCompile Include="Entity_EnemyType_03.cpp" />
+    <ClCompile Include="Entity_Player.cpp" />
+    <ClCompile Include="GameplayManager.cpp" />
+    <ClCompile Include="GameVolume.cpp" />
+    <ClCompile Include="LogoSlider.cpp" />
+    <ClCompile Include="Loot_Chest.cpp" />
+    <ClCompile Include="Loot_Experience.cpp" />
+    <ClCompile Include="Loot_Food.cpp" />
+    <ClCompile Include="Loot_Interface.cpp" />
+    <ClCompile Include="Loot_Magnet.cpp" />
+    <ClCompile Include="Loot_Super.cpp" />
+    <ClCompile Include="Mode_MainGame.cpp" />
+    <ClCompile Include="Mode_MainMenu.cpp" />
+    <ClCompile Include="Mode_SplashScreen.cpp" />
+    <ClCompile Include="MT_Type2.cpp" />
+    <ClCompile Include="Player_Ability.cpp" />
+    <ClCompile Include="Player_Accessory.cpp" />
+    <ClCompile Include="Projectile_Aura.cpp" />
+    <ClCompile Include="Projectile_Axe.cpp" />
+    <ClCompile Include="Projectile_Bomb.cpp" />
+    <ClCompile Include="Projectile_Book.cpp" />
+    <ClCompile Include="Projectile_Super.cpp" />
+    <ClCompile Include="SM_FloatingCombatText.cpp" />
+    <ClCompile Include="SM_LootManager.cpp" />
+    <ClCompile Include="SM_ProgressionManager.cpp" />
+    <ClCompile Include="Projectile_Cross.cpp" />
+    <ClCompile Include="Projectile_Dagger.cpp" />
+    <ClCompile Include="Projectile_Interface.cpp" />
+    <ClCompile Include="Projectile_Whip.cpp" />
+    <ClCompile Include="SM_CollisionManager.cpp" />
+    <ClCompile Include="SM_CombatManager.cpp" />
+    <ClCompile Include="SM_DataManager.cpp" />
+    <ClCompile Include="SM_EntityManager.cpp" />
+    <ClCompile Include="SM_GameStateManager.cpp" />
+    <ClCompile Include="SM_SpawnManager.cpp" />
+    <ClCompile Include="TilesetManager.cpp" />
+    <ClCompile Include="MT_Type1.cpp" />
+    <ClCompile Include="JobSystem.cpp" />
+    <ClCompile Include="SM_TilemapManager.cpp" />
+    <ClCompile Include="TestingEntity.cpp" />
+    <ClCompile Include="TextureManager.cpp" />
+    <ClCompile Include="D3D.cpp" />
+    <ClCompile Include="D3DUtils.cpp" />
+    <ClCompile Include="D3DUtils_Debug.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="GameTimer.cpp" />
+    <ClCompile Include="GeneralUtils.cpp" />
+    <ClCompile Include="InputManager.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MathHelper.cpp" />
+    <ClCompile Include="ModeManager.cpp" />
+    <ClCompile Include="RapidJSONLoaderUtils.cpp" />
+    <ClCompile Include="Tiled_TilemapUtils.cpp" />
+    <ClCompile Include="MT_Animator.cpp" />
+    <ClCompile Include="UIElementManager.cpp" />
+    <ClCompile Include="UITypes.cpp" />
+    <ClCompile Include="Player_Weapon.cpp" />
+    <ClCompile Include="UI_CharacterSelect.cpp" />
+    <ClCompile Include="UI_Controls.cpp" />
+    <ClCompile Include="UI_ExperienceBar.cpp" />
+    <ClCompile Include="UI_GameOverMenu.cpp" />
+    <ClCompile Include="UI_LevelUpSelector.cpp" />
+    <ClCompile Include="UI_MainMenu.cpp" />
+    <ClCompile Include="UI_MapSelection.cpp" />
+    <ClCompile Include="UI_PauseMenu.cpp" />
+    <ClCompile Include="UI_PauseVolumeControl.cpp" />
+    <ClCompile Include="UI_PlayerInfo.cpp" />
+    <ClCompile Include="UI_TitleScreen.cpp" />
+    <ClCompile Include="UI_VolumeControls.cpp" />
+    <ClCompile Include="Projectile_HexSteps.cpp" />
+    <ClCompile Include="UI_WinGame.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="2DCameraTypes.h" />
+    <ClInclude Include="CS_Survivor_00.h" />
+    <ClInclude Include="FNP_Player.h" />
+    <ClInclude Include="InputMaskInterface.h" />
+    <ClInclude Include="Loot_Freeze.h" />
+    <ClInclude Include="Loot_Wipe.h" />
+    <ClInclude Include="Projectile_BulletHell.h" />
+    <ClInclude Include="Projectile_HoH.h" />
+    <ClInclude Include="Projectile_HolyBeam.h" />
+    <ClInclude Include="Projectile_LightBullet.h" />
+    <ClInclude Include="Projectile_Lightning.h" />
+    <ClInclude Include="Projectile_WaterDragon.h" />
+    <ClInclude Include="CameraMovement.h" />
+    <ClInclude Include="Effects_AnimSprite.h" />
+    <ClInclude Include="Loot_Chest.h" />
+    <ClInclude Include="CS_Main_00.h" />
+    <ClInclude Include="EntityPool.h" />
+    <ClInclude Include="Entity_EnemyType_00.h" />
+    <ClInclude Include="Entity_EnemyType_01.h" />
+    <ClInclude Include="Entity_EnemyType_02.h" />
+    <ClInclude Include="Entity_EnemyType_03.h" />
+    <ClInclude Include="Entity_Player.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="LogoSlider.h" />
+    <ClInclude Include="Loot_Experience.h" />
+    <ClInclude Include="Loot_Food.h" />
+    <ClInclude Include="Loot_Interface.h" />
+    <ClInclude Include="Loot_Magnet.h" />
+    <ClInclude Include="Loot_Super.h" />
+    <ClInclude Include="Mode_MainGame.h" />
+    <ClInclude Include="MT_Type2.h" />
+    <ClInclude Include="Player_Ability.h" />
+    <ClInclude Include="Player_Accessory.h" />
+    <ClInclude Include="Projectile_Aura.h" />
+    <ClInclude Include="Projectile_Axe.h" />
+    <ClInclude Include="Projectile_Bomb.h" />
+    <ClInclude Include="Projectile_Book.h" />
+    <ClInclude Include="Projectile_Super.h" />
+    <ClInclude Include="SM_FloatingCombatText.h" />
+    <ClInclude Include="SM_LootManager.h" />
+    <ClInclude Include="SM_ProgressionManager.h" />
+    <ClInclude Include="Projectile_Cross.h" />
+    <ClInclude Include="Projectile_Dagger.h" />
+    <ClInclude Include="Projectile_Interface.h" />
+    <ClInclude Include="Player_Weapon.h" />
+    <ClInclude Include="Projectile_Whip.h" />
+    <ClInclude Include="AnimationDefinitions.h" />
+    <ClInclude Include="AudioDefinitions.h" />
+    <ClInclude Include="AudioManager.h" />
+    <ClInclude Include="CollisionTypes.h" />
+    <ClInclude Include="CS_Interface.h" />
+    <ClInclude Include="CS_Platformer_00.h" />
+    <ClInclude Include="EM_Coordinates.h" />
+    <ClInclude Include="EM_EntityInterface.h" />
+    <ClInclude Include="EM_FixedMovement.h" />
+    <ClInclude Include="EM_Animator.h" />
+    <ClInclude Include="EM_Jobs.h" />
+    <ClInclude Include="EM_MultiSprite_Type1.h" />
+    <ClInclude Include="EM_Sprite.h" />
+    <ClInclude Include="EngineDefinitions.h" />
+    <ClInclude Include="GameDefinitions.h" />
+    <ClInclude Include="GameplayManager.h" />
+    <ClInclude Include="GameVolume.h" />
+    <ClInclude Include="JobDefinitions.h" />
+    <ClInclude Include="SM_CollisionManager.h" />
+    <ClInclude Include="SM_CombatManager.h" />
+    <ClInclude Include="SM_DataManager.h" />
+    <ClInclude Include="SM_DataManager_Strings.h" />
+    <ClInclude Include="SM_EntityManager.h" />
+    <ClInclude Include="SM_GameStateManager.h" />
+    <ClInclude Include="SM_SpawnManager.h" />
+    <ClInclude Include="TilesetManager.h" />
+    <ClInclude Include="Mode_MainMenu.h" />
+    <ClInclude Include="Mode_SplashScreen.h" />
+    <ClInclude Include="MT_Type1.h" />
+    <ClInclude Include="JobSystem.h" />
+    <ClInclude Include="SM_TilemapManager.h" />
+    <ClInclude Include="TestingEntity.h" />
+    <ClInclude Include="TextureManager.h" />
+    <ClInclude Include="D3D.h" />
+    <ClInclude Include="D3DUtils.h" />
+    <ClInclude Include="D3DUtils_Debug.h" />
+    <ClInclude Include="GameConstants.h" />
+    <ClInclude Include="GameTimer.h" />
+    <ClInclude Include="GameTypes.h" />
+    <ClInclude Include="GameUtilities.h" />
+    <ClInclude Include="GeneralUtils.h" />
+    <ClInclude Include="InputManager.h" />
+    <ClInclude Include="MathHelper.h" />
+    <ClInclude Include="ModeInterface.h" />
+    <ClInclude Include="ModeManager.h" />
+    <ClInclude Include="RapidJSONLoaderUtils.h" />
+    <ClInclude Include="TextureDescriptions.h" />
+    <ClInclude Include="Tiled_TilemapUtils.h" />
+    <ClInclude Include="Tiled_Types.h" />
+    <ClInclude Include="MT_Animator.h" />
+    <ClInclude Include="UIDefinitions.h" />
+    <ClInclude Include="UIElementManager.h" />
+    <ClInclude Include="UITypes.h" />
+    <ClInclude Include="UI_CharacterSelect.h" />
+    <ClInclude Include="UI_Controls.h" />
+    <ClInclude Include="UI_ExperienceBar.h" />
+    <ClInclude Include="UI_GameOverMenu.h" />
+    <ClInclude Include="UI_LevelUpSelector.h" />
+    <ClInclude Include="UI_MainMenu.h" />
+    <ClInclude Include="UI_MapSelection.h" />
+    <ClInclude Include="UI_PauseMenu.h" />
+    <ClInclude Include="UI_PauseVolumeControl.h" />
+    <ClInclude Include="UI_PlayerInfo.h" />
+    <ClInclude Include="UI_TitleScreen.h" />
+    <ClInclude Include="UI_VolumeControls.h" />
+    <ClInclude Include="Projectile_HexSteps.h" />
+    <ClInclude Include="UI_WinGame.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="bin\data\textures\backgrounds\Backdrop_00.dds" />
+    <Image Include="bin\data\textures\backgrounds\RB_WP_00.dds" />
+    <Image Include="bin\data\textures\misc\Testing_Texture_00.dds" />
+    <Image Include="bin\data\textures\sprites\Anim_Test_SS_00.dds" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\data\files\Accessory_Data_00.json" />
+    <None Include="bin\data\files\Character_Data_00.json" />
+    <None Include="bin\data\files\Default_CS_00.json" />
+    <None Include="bin\data\files\Enemy_Data_00.json" />
+    <None Include="bin\data\files\Font_Manifest_00.json" />
+    <None Include="bin\data\files\Master_Manifest_00.json" />
+    <None Include="bin\data\files\Pool_Data_00.json" />
+    <None Include="bin\data\files\Spawn_Data_00.json" />
+    <None Include="bin\data\files\Texture_Manifest_00.json" />
+    <None Include="bin\data\files\UI_Config_00.json" />
+    <None Include="bin\data\files\Weapon_Data_00.json" />
+    <None Include="bin\data\textures\misc\Testing_Texture_00.json" />
+    <None Include="bin\data\textures\sprites\Anim_Test_SS_00.json" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

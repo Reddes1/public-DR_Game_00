@@ -1,0 +1,375 @@
+{
+  "Enemy Pools": [
+    {
+      "Pool Name": "Enemy_Pool_00",
+      "Pool ID": 0,
+
+      "Allocations": [
+        {
+          "Enemy Type ID": 0,
+          "Allocation Count": 1024
+        }
+      ]
+    },
+    {
+      "Pool Name": "Enemy_Pool_01",
+      "Pool ID": 1,
+
+      "Allocations": [
+        {
+          "Enemy Type ID": 2,
+          "Allocation Count": 512
+        },
+        {
+          "Enemy Type ID": 3,
+          "Allocation Count": 512
+        }
+      ]
+    }
+  ],
+  "Player Projectile Pool": [
+    {
+      "Name": "Cross_Projectile",
+      "Unique ID": 0,
+      "Weapon ID": 0,
+
+      "Allocation Count": 64,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_00",
+          "Animated": false,
+          "Frame ID": 68
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 19.2,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "Name": "Whip_Projectile",
+      "Unique ID": 1,
+      "Weapon ID": 1,
+
+      "Allocation Count": 64,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_00",
+          "Animated": true,
+          "Frame ID": 8
+        }
+      ],
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 1,
+        "Collision Radius": 0.0,
+        "Collision Box": [ 210.0, 68.0 ]
+      }
+    },
+
+    {
+      "Name": "Dagger_Projectile",
+      "Unique ID": 2,
+      "Weapon ID": 2,
+
+      "Allocation Count": 64,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_00",
+          "Animated": false,
+          "Frame ID": 70
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 1,
+        "Collision Radius": 0.0,
+        "Collision Box": [ 44.0, 22.0 ]
+      }
+    },
+
+    {
+      "Name": "Bomb_Projectile",
+      "Unique ID": 3,
+      "Weapon ID": 3,
+
+      "Allocation Count": 64,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_00",
+          "Animated": true,
+          "Frame ID": 1
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 75.0,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "Name": "Aura_Projectile",
+      "Unique ID": 4,
+      "Weapon ID": 4,
+
+      "Allocation Count": 4,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_00",
+          "Animated": true,
+          "Frame ID": 2
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 82.0,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "Name": "Book_Projectile",
+      "Unique ID": 5,
+      "Weapon ID": 5,
+
+      "Allocation Count": 64,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_00",
+          "Animated": false,
+          "Frame ID": 64
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 1,
+        "Collision Radius": 0.0,
+        "Collision Box": [ 48.0, 48.0 ]
+      }
+    },
+
+    {
+      "Name": "Axe_Projectile",
+      "Unique ID": 6,
+      "Weapon ID": 6,
+
+      "Allocation Count": 64,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_00",
+          "Animated": false,
+          "Frame ID": 63
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 24.0,
+        "Collision Box": [ 48.0, 48.0 ]
+      }
+    },
+
+    {
+      "Name": "Hex_Projectile",
+      "Unique ID": 7,
+      "Weapon ID": 7,
+
+      "Allocation Count": 64,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_00",
+          "Animated": true,
+          "Frame ID": 7
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 32.0,
+        "Collision Box": [ 48.0, 48.0 ]
+      }
+    },
+
+    {
+      "Name": "Super_Projectile",
+      "Unique ID": 100,
+      "Weapon ID": 100,
+
+      "Allocation Count": 128,
+
+      "Textures": [
+        {
+          "Texture Name": "Effects_SS_00",
+          "Animated": true,
+          "Frame ID": 16
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 40.0,
+        "Collision Box": [ 80.0, 80.0 ]
+      }
+    },
+
+
+    {
+      "Name": "Heaven_On_High_Projectile",
+      "Unique ID": 200,
+      "Weapon ID": 200,
+
+      "Allocation Count": 64,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_01",
+          "Animated": true,
+          "Frame ID": 5
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 1,
+        "Collision Radius": 100.0,
+        "Collision Box": [ 200.0, 100.0 ]
+      }
+    },
+
+    {
+      "Name": "Bullet_Hell_Gate",
+      "Unique ID": 201,
+      "Weapon ID": 201,
+
+      "Allocation Count": 8,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_01",
+          "Animated": true,
+          "Frame ID": 3
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 1.0,
+        "Collision Box": [ 1.0, 1.0 ]
+      }
+    },
+
+    {
+      "Name": "Bullet_Hell_Projectile",
+      "Unique ID": 202,
+      "Weapon ID": 202,
+
+      "Allocation Count": 256,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_01",
+          "Animated": true,
+          "Frame ID": 4
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 1,
+        "Collision Radius": 22.5,
+        "Collision Box": [ 55.0, 17.0 ]
+      }
+    },
+
+    {
+      "Name": "Water_Dragon_Projectile",
+      "Unique ID": 203,
+      "Weapon ID": 203,
+
+      "Allocation Count": 4,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_01",
+          "Animated": true,
+          "Frame ID": 8
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 1,
+        "Collision Radius": 40.0,
+        "Collision Box": [ 720.0, 360.0 ]
+      }
+    },
+
+    {
+      "Name": "Heaven_On_High_Angel",
+      "Unique ID": 204,
+      "Weapon ID": 204,
+
+      "Allocation Count": 2,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_01",
+          "Animated": true,
+          "Frame ID": 1
+        }
+      ],
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 100.0,
+        "Collision Box": [ 100.0, 100.0 ]
+      }
+    }
+  ],
+
+  "Enemy Projectile Pool": [
+    {
+      "Name": "Projectile_00",
+      "Unique ID": 0,
+      "Allocation Count": 1024,
+
+      "Textures": [
+        {
+          "Texture Name": "Weapon_SS_00",
+          "Animated": false,
+          "Frame ID": 65
+        }
+      ],
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 16.0,
+        "Collision Box": [ 32.0, 32.0 ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+    "Non-Navigational UI Elements": [
+        {
+            "Unique Type ID": 0,
+            "Creation Count": 1,
+            "Name": "Test_Frame_00",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 1,
+
+            "UI Pos X": 100.0,
+            "UI Pos Y": 200.0,
+
+            "Pos Adj X": 0.0,
+            "Pos Adj Y": 0.0,
+
+            "UI Layer Depth": 0.80,
+
+            "UI Strings": [
+                {
+                    "String": "Title",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Pos X": 100.0,
+                    "Pos Y": 200.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 0.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Thing 1",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Pos X": 80.0,
+                    "Pos Y": 240.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 0.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Thing 2",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Pos X": 80.0,
+                    "Pos Y": 280.0,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 0.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Thing 3",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Pos X": 80.0,
+                    "Pos Y": 320.0,
+                    "Rotation": 0.772,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 0.0,
+                    "G": 0.0,
+                    "B": 0.0,
+                    "A": 1.0
+                }
+            ]
+        }
+    ],
+    "Fixed-Navigational UI Elements": [
+        {
+            "Unique Type ID": 0,
+            "Creation Count": 2,
+            "Name": "Test_Frame_01",
+
+            "Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Texture Access Name": "BK_UI_Atlas_00",
+            "Texture Frame ID": 4,
+
+            "Cursor Texture Filepath": "data/textures/ui/BK_UI_Package_00.dds",
+            "Cursor Texture Access Name": "BK_UI_Atlas_00",
+            "Cursor Texture Frame ID": 53,
+
+            "UI Pos X": 50.0,
+            "UI Pos Y": 50.0,
+
+            "Pos Adj X": 0.0,
+            "Pos Adj Y": 0.0,
+
+            "Cursor Anchor Pos X": 55.0,
+            "Cursor Anchor Pos Y": 55.0,
+            "String Anchor Pos X": 116.0,
+            "String Anchor Pos Y": 86.0,
+
+            "UI Layer Depth": 0.80,
+            "Cursor Layer Depth": 0.81,
+
+            "Offset X": 128.0,
+            "Offset Y": 64.0,
+
+            "Index Max X": 1,
+            "Index Max Y": 3,
+            "Default Index X": 0,
+            "Default Index Y": 0,
+
+            "UI Strings": [
+                {
+                    "String": "Anim 1",
+                    "Font ID": 0,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.81,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Anim 2",
+                    "Font ID": 1,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Anim 3",
+                    "Font ID": 2,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Anim 4",
+                    "Font ID": 3,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.0,
+                    "Effect ID": 1,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Anim 5",
+                    "Font ID": 4,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.3,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Anim 6",
+                    "Font ID": 5,
+                    "Text Justification ID": 7,
+                    "Rotation": -0.3,
+                    "Scale": 1.0,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Anim 7",
+                    "Font ID": 5,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 0.5,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                },
+                {
+                    "String": "Anim 8",
+                    "Font ID": 5,
+                    "Text Justification ID": 7,
+                    "Rotation": 0.0,
+                    "Scale": 1.5,
+                    "Effect ID": 0,
+                    "Layer Depth": 0.82,
+                    "R": 1.0,
+                    "G": 1.0,
+                    "B": 1.0,
+                    "A": 1.0
+                }
+            ]
+        }
+    ]
+}

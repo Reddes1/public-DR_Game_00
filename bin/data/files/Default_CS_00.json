@@ -1,0 +1,24 @@
+{
+    "Platformer_00": [
+        {
+            "Scheme Name": "Default Layout",
+            "Default Keys": [
+                {
+                    "Action Name": "Move_Left",
+                    "Action Key": "A",
+                    "Action ASCII": 65
+                },
+                {
+                    "Action Name": "Move_Right",
+                    "Action Key": "D",
+                    "Action ASCII": 68
+                },
+                {
+                    "Action Name": "Jump",
+                    "Action Key": " ",
+                    "Action ASCII": 32
+                }
+            ]
+        }
+    ]
+}

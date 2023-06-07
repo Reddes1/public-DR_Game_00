@@ -1,0 +1,832 @@
+{
+  "Accessory Data": [
+    {
+      "Name": "Fortifying Necklace",
+      "Unique ID": 0,
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 5,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Increase max health By 10.",
+                "Stat Index": 1,
+                "Value": 10
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase max health By 10.",
+                "Stat Index": 1,
+                "Value": 10
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase max health By 10.",
+                "Stat Index": 1,
+                "Value": 10
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase max health By 10.",
+                "Stat Index": 1,
+                "Value": 10
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase max health By 10.",
+                "Stat Index": 1,
+                "Value": 10
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 11,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Increases maximum health."
+      }
+    },
+
+    {
+      "Name": "Footpad's Treads",
+      "Unique ID": 1,
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 5,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Increase movespeed by 6%.",
+                "Stat Index": 7,
+                "Value": 0.06
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase movespeed by 6%.",
+                "Stat Index": 7,
+                "Value": 0.06
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase movespeed by 6%.",
+                "Stat Index": 7,
+                "Value": 0.06
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase movespeed by 6%.",
+                "Stat Index": 7,
+                "Value": 0.06
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase movespeed by 6%.",
+                "Stat Index": 7,
+                "Value": 0.06
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 4,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Increases movement speed."
+      }
+    },
+
+    {
+      "Name": "Steel Chestplate",
+      "Unique ID": 2,
+
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 5,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Increase armour by 1.",
+                "Stat Index": 3,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase armour by 1.",
+                "Stat Index": 3,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase armour by 1.",
+                "Stat Index": 3,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase armour by 1.",
+                "Stat Index": 3,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase armour by 1.",
+                "Stat Index": 3,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 0,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Increases armour, reducing \ndamage taken."
+      }
+
+    },
+
+    {
+      "Name": "Magnetic Ring",
+      "Unique ID": 3,
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 5,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Increase pickup range by 20.",
+                "Stat Index": 4,
+                "Value": 20
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase pickup range by 20.",
+                "Stat Index": 4,
+                "Value": 20
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase pickup range by 20.",
+                "Stat Index": 4,
+                "Value": 20
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase pickup range by 20.",
+                "Stat Index": 4,
+                "Value": 20
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase pickup range by 20.",
+                "Stat Index": 4,
+                "Value": 20
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 13,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Increases pick-up radius."
+      }
+    },
+
+    {
+      "Name": "Crystalline Focus",
+      "Unique ID": 4,
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 3,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 5,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 5,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 5,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 7,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Increases projectile count."
+      }
+    },
+
+    {
+      "Name": "Rejuvenating Elixir",
+      "Unique ID": 5,
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 5,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Increase health regen by 1.",
+                "Stat Index": 6,
+                "Value": 1.0
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase health regen by 1.",
+                "Stat Index": 6,
+                "Value": 1.0
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase health regen by 1.",
+                "Stat Index": 6,
+                "Value": 1.0
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase health regen by 1.",
+                "Stat Index": 6,
+                "Value": 1.0
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase health regen by 1.",
+                "Stat Index": 6,
+                "Value": 1.0
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 12,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Increases health regen."
+      }
+    },
+
+    {
+      "Name": "Wizard's Hat",
+      "Unique ID": 6,
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 5,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Increase damage by 8%.",
+                "Stat Index": 8,
+                "Value": 0.08
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase damage by 8%.",
+                "Stat Index": 8,
+                "Value": 0.08
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase damage by 8%.",
+                "Stat Index": 8,
+                "Value": 0.08
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase damage by 8%.",
+                "Stat Index": 8,
+                "Value": 0.08
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase damage by 8%.",
+                "Stat Index": 8,
+                "Value": 0.08
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 21,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Increases Damage Dealt."
+      }
+    },
+
+    {
+      "Name": "Time Accelerator",
+      "Unique ID": 7,
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 5,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Reduce weapon cooldown by 5%.",
+                "Stat Index": 9,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Reduce weapon cooldown by 5%.",
+                "Stat Index": 9,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Reduce weapon cooldown by 5%.",
+                "Stat Index": 9,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Reduce weapon cooldown by 5%.",
+                "Stat Index": 9,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Reduce weapon cooldown by 5%.",
+                "Stat Index": 9,
+                "Value": 0.05
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 17,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Decreases Weapon Cooldown."
+      }
+    },
+
+    {
+      "Name": "Time Decelerator",
+      "Unique ID": 8,
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 5,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Increases duration by 5%.",
+                "Stat Index": 12,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increases duration by 5%.",
+                "Stat Index": 12,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increases duration by 5%.",
+                "Stat Index": 12,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increases duration by 5%.",
+                "Stat Index": 12,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increases duration by 5%.",
+                "Stat Index": 12,
+                "Value": 0.05
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 18,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Increases Weapon Duration."
+      }
+    },
+
+    {
+      "Name": "Throwing Guard",
+      "Unique ID": 9,
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 5,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Increases projectile speed by 5%.",
+                "Stat Index": 10,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increases projectile speed by 5%.",
+                "Stat Index": 10,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increases projectile speed by 5%.",
+                "Stat Index": 10,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increases projectile speed by 5%.",
+                "Stat Index": 10,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increases projectile speed by 5%.",
+                "Stat Index": 10,
+                "Value": 0.05
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 16,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Increase Projectile Speed."
+      }
+    },
+
+    {
+      "Name": "Magnifiers",
+      "Unique ID": 10,
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 5,
+        "Level Breakdown": [
+          {
+            "Level": 0,
+            "Level Effects": [
+              {
+                "Description": "Increases AoE by 5%.",
+                "Stat Index": 11,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increases AoE by 5%.",
+                "Stat Index": 11,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increases AoE by 5%.",
+                "Stat Index": 11,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increases AoE by 5%.",
+                "Stat Index": 11,
+                "Value": 0.05
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increases AoE by 5%.",
+                "Stat Index": 11,
+                "Value": 0.05
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 10,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Increase Weapon AoE."
+      }
+    }
+  ]
+}

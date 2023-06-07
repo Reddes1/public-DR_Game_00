@@ -1,0 +1,9329 @@
+{
+  "frames": [
+
+    {
+      "filename": "robotATTACKleft (1).png",
+      "frame": {
+        "x": 3738,
+        "y": 898,
+        "w": 190,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 23,
+        "w": 190,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.510526,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKleft (2).png",
+      "frame": {
+        "x": 3358,
+        "y": 886,
+        "w": 190,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 27,
+        "w": 190,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 150
+      },
+      "pivot": {
+        "x": 0.510526,
+        "y": 0.46
+      }
+    },
+    {
+      "filename": "robotATTACKleft (3).png",
+      "frame": {
+        "x": 1554,
+        "y": 862,
+        "w": 190,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 31,
+        "w": 190,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 146
+      },
+      "pivot": {
+        "x": 0.510526,
+        "y": 0.445205
+      }
+    },
+    {
+      "filename": "robotATTACKleft (4).png",
+      "frame": {
+        "x": 1744,
+        "y": 862,
+        "w": 190,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 31,
+        "w": 190,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 146
+      },
+      "pivot": {
+        "x": 0.510526,
+        "y": 0.445205
+      }
+    },
+    {
+      "filename": "robotATTACKleft (5).png",
+      "frame": {
+        "x": 2456,
+        "y": 732,
+        "w": 190,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 35,
+        "w": 190,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.510526,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "robotATTACKleft (6).png",
+      "frame": {
+        "x": 0,
+        "y": 988,
+        "w": 234,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 23,
+        "w": 234,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.397436,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKleft (7).png",
+      "frame": {
+        "x": 335,
+        "y": 1964,
+        "w": 246,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 0,
+        "w": 246,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.378049,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "robotATTACKleft (8).png",
+      "frame": {
+        "x": 743,
+        "y": 1968,
+        "w": 234,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 0,
+        "w": 234,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.380342,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "robotATTACKleft (9).png",
+      "frame": {
+        "x": 162,
+        "y": 1790,
+        "w": 310,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 15,
+        "w": 310,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 310,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.558065,
+        "y": 0.465517
+      }
+    },
+    {
+      "filename": "robotATTACKleft (10).png",
+      "frame": {
+        "x": 2364,
+        "y": 1174,
+        "w": 262,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 31,
+        "w": 262,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 262,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.675573,
+        "y": 0.411392
+      }
+    },
+    {
+      "filename": "robotATTACKleft (11).png",
+      "frame": {
+        "x": 2780,
+        "y": 1186,
+        "w": 258,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 31,
+        "w": 258,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.717054,
+        "y": 0.411392
+      }
+    },
+    {
+      "filename": "robotATTACKleft (12).png",
+      "frame": {
+        "x": 2954,
+        "y": 744,
+        "w": 278,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 35,
+        "w": 278,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.665468,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "robotATTACKleft (13).png",
+      "frame": {
+        "x": 1934,
+        "y": 866,
+        "w": 270,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 31,
+        "w": 270,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 270,
+        "h": 146
+      },
+      "pivot": {
+        "x": 0.655556,
+        "y": 0.445205
+      }
+    },
+    {
+      "filename": "robotATTACKleft (14).png",
+      "frame": {
+        "x": 234,
+        "y": 996,
+        "w": 282,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 23,
+        "w": 282,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 282,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.641844,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKleft (15).png",
+      "frame": {
+        "x": 516,
+        "y": 996,
+        "w": 206,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 23,
+        "w": 206,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.470874,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKleft (16).png",
+      "frame": {
+        "x": 722,
+        "y": 996,
+        "w": 214,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 23,
+        "w": 214,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.453271,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKleft (17).png",
+      "frame": {
+        "x": 936,
+        "y": 996,
+        "w": 190,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 23,
+        "w": 190,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.510526,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKright _00.png",
+      "frame": {
+        "x": 1126,
+        "y": 1000,
+        "w": 190,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 23,
+        "w": 190,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.489474,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKright_01.png",
+      "frame": {
+        "x": 3548,
+        "y": 898,
+        "w": 190,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 27,
+        "w": 190,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 150
+      },
+      "pivot": {
+        "x": 0.489474,
+        "y": 0.46
+      }
+    },
+    {
+      "filename": "robotATTACKright_02.png",
+      "frame": {
+        "x": 2204,
+        "y": 870,
+        "w": 190,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 31,
+        "w": 190,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 146
+      },
+      "pivot": {
+        "x": 0.489474,
+        "y": 0.445205
+      }
+    },
+    {
+      "filename": "robotATTACKright_03.png",
+      "frame": {
+        "x": 2394,
+        "y": 874,
+        "w": 190,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 31,
+        "w": 190,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 146
+      },
+      "pivot": {
+        "x": 0.489474,
+        "y": 0.445205
+      }
+    },
+    {
+      "filename": "robotATTACKright_04.png",
+      "frame": {
+        "x": 2646,
+        "y": 732,
+        "w": 190,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 35,
+        "w": 190,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.489474,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "robotATTACKright_05.png",
+      "frame": {
+        "x": 1316,
+        "y": 1000,
+        "w": 234,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 23,
+        "w": 234,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.602564,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKright_06.png",
+      "frame": {
+        "x": 977,
+        "y": 1976,
+        "w": 246,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 0,
+        "w": 246,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.621951,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "robotATTACKright_07.png",
+      "frame": {
+        "x": 1385,
+        "y": 1991,
+        "w": 234,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 0,
+        "w": 234,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 234,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.619658,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "robotATTACKright_08.png",
+      "frame": {
+        "x": 472,
+        "y": 1790,
+        "w": 310,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 15,
+        "w": 310,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 310,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.441935,
+        "y": 0.465517
+      }
+    },
+    {
+      "filename": "robotATTACKright_09.png",
+      "frame": {
+        "x": 3038,
+        "y": 1186,
+        "w": 262,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 31,
+        "w": 262,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 262,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.324427,
+        "y": 0.411392
+      }
+    },
+    {
+      "filename": "robotATTACKright_10.png",
+      "frame": {
+        "x": 3678,
+        "y": 1206,
+        "w": 258,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 119,
+        "y": 31,
+        "w": 258,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.282946,
+        "y": 0.411392
+      }
+    },
+    {
+      "filename": "robotATTACKright_11.png",
+      "frame": {
+        "x": 3232,
+        "y": 744,
+        "w": 278,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 35,
+        "w": 278,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.334532,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "robotATTACKright_12.png",
+      "frame": {
+        "x": 2836,
+        "y": 886,
+        "w": 270,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 31,
+        "w": 270,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 270,
+        "h": 146
+      },
+      "pivot": {
+        "x": 0.344444,
+        "y": 0.445205
+      }
+    },
+    {
+      "filename": "robotATTACKright_13.png",
+      "frame": {
+        "x": 1550,
+        "y": 1008,
+        "w": 282,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 23,
+        "w": 282,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 282,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.358156,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKright_14.png",
+      "frame": {
+        "x": 1832,
+        "y": 1012,
+        "w": 206,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 23,
+        "w": 206,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.529126,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKright_15.png",
+      "frame": {
+        "x": 2378,
+        "y": 1020,
+        "w": 214,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 23,
+        "w": 214,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 214,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.546729,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotATTACKright_16.png",
+      "frame": {
+        "x": 2188,
+        "y": 1016,
+        "w": 190,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 23,
+        "w": 190,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.489474,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotIDLEleft (1).png",
+      "frame": {
+        "x": 2592,
+        "y": 1020,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 23,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotIDLEleft (2).png",
+      "frame": {
+        "x": 2175,
+        "y": 1170,
+        "w": 189,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 19,
+        "w": 189,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "robotIDLEleft (3).png",
+      "frame": {
+        "x": 1890,
+        "y": 1482,
+        "w": 189,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 189,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "robotIDLEleft (4).png",
+      "frame": {
+        "x": 2079,
+        "y": 1490,
+        "w": 189,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 189,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "robotIDLEleft (5).png",
+      "frame": {
+        "x": 3300,
+        "y": 1190,
+        "w": 189,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 19,
+        "w": 189,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "robotIDLEleft (6).png",
+      "frame": {
+        "x": 3489,
+        "y": 1202,
+        "w": 189,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 19,
+        "w": 189,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "robotIDLEleft (7).png",
+      "frame": {
+        "x": 1759,
+        "y": 1320,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEleft (8).png",
+      "frame": {
+        "x": 1948,
+        "y": 1320,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEleft (9).png",
+      "frame": {
+        "x": 2137,
+        "y": 1328,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEleft (10).png",
+      "frame": {
+        "x": 2268,
+        "y": 1494,
+        "w": 189,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 189,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "robotIDLEleft (11).png",
+      "frame": {
+        "x": 2457,
+        "y": 1494,
+        "w": 189,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 189,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "robotIDLEleft (12).png",
+      "frame": {
+        "x": 2646,
+        "y": 1506,
+        "w": 189,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 189,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "robotIDLEleft (13).png",
+      "frame": {
+        "x": 2326,
+        "y": 1332,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEleft (14).png",
+      "frame": {
+        "x": 2515,
+        "y": 1332,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEleft (15).png",
+      "frame": {
+        "x": 2704,
+        "y": 1344,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEleft (16).png",
+      "frame": {
+        "x": 2781,
+        "y": 1032,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 23,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotIDLEleft (17).png",
+      "frame": {
+        "x": 2970,
+        "y": 1032,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 23,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotIDLEleft (18).png",
+      "frame": {
+        "x": 3159,
+        "y": 1032,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 23,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotIDLEright_00.png",
+      "frame": {
+        "x": 3348,
+        "y": 1036,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 23,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotIDLEright_01.png",
+      "frame": {
+        "x": 0,
+        "y": 1296,
+        "w": 189,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 19,
+        "w": 189,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "robotIDLEright_02.png",
+      "frame": {
+        "x": 2835,
+        "y": 1506,
+        "w": 189,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 11,
+        "w": 189,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "robotIDLEright_03.png",
+      "frame": {
+        "x": 3024,
+        "y": 1506,
+        "w": 189,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 11,
+        "w": 189,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "robotIDLEright_04.png",
+      "frame": {
+        "x": 189,
+        "y": 1304,
+        "w": 189,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 19,
+        "w": 189,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "robotIDLEright_05.png",
+      "frame": {
+        "x": 378,
+        "y": 1304,
+        "w": 189,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 19,
+        "w": 189,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "robotIDLEright_06.png",
+      "frame": {
+        "x": 2893,
+        "y": 1344,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEright_07.png",
+      "frame": {
+        "x": 3082,
+        "y": 1344,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEright_08.png",
+      "frame": {
+        "x": 3271,
+        "y": 1348,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEright_09.png",
+      "frame": {
+        "x": 3213,
+        "y": 1510,
+        "w": 189,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 11,
+        "w": 189,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "robotIDLEright_10.png",
+      "frame": {
+        "x": 3402,
+        "y": 1522,
+        "w": 189,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 11,
+        "w": 189,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "robotIDLEright_11.png",
+      "frame": {
+        "x": 3591,
+        "y": 1526,
+        "w": 189,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 11,
+        "w": 189,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "robotIDLEright_12.png",
+      "frame": {
+        "x": 3460,
+        "y": 1360,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEright_13.png",
+      "frame": {
+        "x": 3649,
+        "y": 1364,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEright_14.png",
+      "frame": {
+        "x": 3838,
+        "y": 1364,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotIDLEright_15.png",
+      "frame": {
+        "x": 3537,
+        "y": 1048,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 23,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotIDLEright_16.png",
+      "frame": {
+        "x": 3726,
+        "y": 1052,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 23,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotIDLEright_17.png",
+      "frame": {
+        "x": 0,
+        "y": 1142,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 23,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotWALKleft (1).png",
+      "frame": {
+        "x": 189,
+        "y": 1150,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 23,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotWALKleft (2).png",
+      "frame": {
+        "x": 567,
+        "y": 1304,
+        "w": 189,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 19,
+        "w": 189,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "robotWALKleft (3).png",
+      "frame": {
+        "x": 0,
+        "y": 1454,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotWALKleft (4).png",
+      "frame": {
+        "x": 189,
+        "y": 1462,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotWALKleft (5).png",
+      "frame": {
+        "x": 378,
+        "y": 1462,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotWALKleft (6).png",
+      "frame": {
+        "x": 567,
+        "y": 1462,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotWALKleft (7).png",
+      "frame": {
+        "x": 756,
+        "y": 1462,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.524691
+      }
+    },
+    {
+      "filename": "robotWALKleft (8).png",
+      "frame": {
+        "x": 378,
+        "y": 1150,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 19,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotWALKleft (9).png",
+      "frame": {
+        "x": 756,
+        "y": 1304,
+        "w": 189,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 15,
+        "w": 189,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.507937,
+        "y": 0.512658
+      }
+    },
+    {
+      "filename": "robotWALKright_00.png",
+      "frame": {
+        "x": 567,
+        "y": 1150,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 23,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "robotWALKright_01.png",
+      "frame": {
+        "x": 945,
+        "y": 1308,
+        "w": 189,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 19,
+        "w": 189,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "robotWALKright_02.png",
+      "frame": {
+        "x": 945,
+        "y": 1466,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotWALKright_03.png",
+      "frame": {
+        "x": 1134,
+        "y": 1466,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotWALKright_04.png",
+      "frame": {
+        "x": 1323,
+        "y": 1474,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotWALKright_05.png",
+      "frame": {
+        "x": 1512,
+        "y": 1474,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotWALKright_06.png",
+      "frame": {
+        "x": 1701,
+        "y": 1482,
+        "w": 189,
+        "h": 162
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 11,
+        "w": 189,
+        "h": 162
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 162
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.524691
+      }
+    },
+    {
+      "filename": "robotWALKright_07.png",
+      "frame": {
+        "x": 756,
+        "y": 1150,
+        "w": 189,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 19,
+        "w": 189,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "robotWALKright_08.png",
+      "frame": {
+        "x": 1134,
+        "y": 1308,
+        "w": 189,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 15,
+        "w": 189,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 189,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.492063,
+        "y": 0.512658
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (1).png",
+      "frame": {
+        "x": 1416,
+        "y": 452,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (2).png",
+      "frame": {
+        "x": 1618,
+        "y": 586,
+        "w": 122,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 131,
+        "y": 39,
+        "w": 122,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (3).png",
+      "frame": {
+        "x": 2584,
+        "y": 874,
+        "w": 126,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 127,
+        "y": 31,
+        "w": 126,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 146
+      },
+      "pivot": {
+        "x": 0.515873,
+        "y": 0.445205
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (4).png",
+      "frame": {
+        "x": 3928,
+        "y": 898,
+        "w": 150,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 23,
+        "w": 150,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.54,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (5).png",
+      "frame": {
+        "x": 2626,
+        "y": 1174,
+        "w": 154,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 19,
+        "w": 154,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.525974,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (6).png",
+      "frame": {
+        "x": 1323,
+        "y": 1316,
+        "w": 218,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 19,
+        "w": 218,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.646789,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (7).png",
+      "frame": {
+        "x": 1115,
+        "y": 1154,
+        "w": 186,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 23,
+        "w": 186,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.629032,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (8).png",
+      "frame": {
+        "x": 3915,
+        "y": 1052,
+        "w": 170,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 23,
+        "w": 170,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.617647,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (9).png",
+      "frame": {
+        "x": 945,
+        "y": 1150,
+        "w": 170,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 23,
+        "w": 170,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.594118,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (10).png",
+      "frame": {
+        "x": 1301,
+        "y": 1154,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 23,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.603448,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (11).png",
+      "frame": {
+        "x": 3780,
+        "y": 1526,
+        "w": 258,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 11,
+        "w": 258,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.732558,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (12).png",
+      "frame": {
+        "x": 162,
+        "y": 1624,
+        "w": 261,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 11,
+        "w": 261,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 261,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.735632,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (13).png",
+      "frame": {
+        "x": 423,
+        "y": 1624,
+        "w": 246,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 11,
+        "w": 246,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.719512,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (14).png",
+      "frame": {
+        "x": 2710,
+        "y": 874,
+        "w": 126,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 127,
+        "y": 31,
+        "w": 126,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 146
+      },
+      "pivot": {
+        "x": 0.515873,
+        "y": 0.445205
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (15).png",
+      "frame": {
+        "x": 2024,
+        "y": 590,
+        "w": 122,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 131,
+        "y": 39,
+        "w": 122,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKleft (16).png",
+      "frame": {
+        "x": 2378,
+        "y": 464,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (1).png",
+      "frame": {
+        "x": 2496,
+        "y": 464,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (2).png",
+      "frame": {
+        "x": 2998,
+        "y": 606,
+        "w": 122,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 39,
+        "w": 122,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (3).png",
+      "frame": {
+        "x": 3106,
+        "y": 886,
+        "w": 126,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 31,
+        "w": 126,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 146
+      },
+      "pivot": {
+        "x": 0.484127,
+        "y": 0.445205
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (4).png",
+      "frame": {
+        "x": 2038,
+        "y": 1012,
+        "w": 150,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 23,
+        "w": 150,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.46,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (5).png",
+      "frame": {
+        "x": 3936,
+        "y": 1206,
+        "w": 154,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 19,
+        "w": 154,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 154,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.474026,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (6).png",
+      "frame": {
+        "x": 1541,
+        "y": 1316,
+        "w": 218,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 19,
+        "w": 218,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 158
+      },
+      "pivot": {
+        "x": 0.353211,
+        "y": 0.487342
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (7).png",
+      "frame": {
+        "x": 1475,
+        "y": 1162,
+        "w": 186,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 23,
+        "w": 186,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 186,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.370968,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (8).png",
+      "frame": {
+        "x": 1661,
+        "y": 1162,
+        "w": 170,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 23,
+        "w": 170,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.382353,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (9).png",
+      "frame": {
+        "x": 1831,
+        "y": 1166,
+        "w": 170,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 23,
+        "w": 170,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.405882,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (10).png",
+      "frame": {
+        "x": 2001,
+        "y": 1166,
+        "w": 174,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 23,
+        "w": 174,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 154
+      },
+      "pivot": {
+        "x": 0.396552,
+        "y": 0.474026
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (11).png",
+      "frame": {
+        "x": 669,
+        "y": 1624,
+        "w": 258,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 11,
+        "w": 258,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 258,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.267442,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (12).png",
+      "frame": {
+        "x": 927,
+        "y": 1628,
+        "w": 261,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 11,
+        "w": 261,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 261,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.264368,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (13).png",
+      "frame": {
+        "x": 1188,
+        "y": 1636,
+        "w": 246,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 11,
+        "w": 246,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 246,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.280488,
+        "y": 0.512048
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (14).png",
+      "frame": {
+        "x": 3232,
+        "y": 886,
+        "w": 126,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 31,
+        "w": 126,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 126,
+        "h": 146
+      },
+      "pivot": {
+        "x": 0.484127,
+        "y": 0.445205
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (15).png",
+      "frame": {
+        "x": 3120,
+        "y": 606,
+        "w": 122,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 39,
+        "w": 122,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonarcherATTACKright (16).png",
+      "frame": {
+        "x": 2614,
+        "y": 464,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEleft (1).png",
+      "frame": {
+        "x": 2732,
+        "y": 464,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEleft (2).png",
+      "frame": {
+        "x": 3242,
+        "y": 606,
+        "w": 118,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 39,
+        "w": 118,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEleft (3).png",
+      "frame": {
+        "x": 2836,
+        "y": 736,
+        "w": 118,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 35,
+        "w": 118,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEleft (4).png",
+      "frame": {
+        "x": 3510,
+        "y": 744,
+        "w": 118,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 35,
+        "w": 118,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEleft (5).png",
+      "frame": {
+        "x": 3628,
+        "y": 756,
+        "w": 118,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 35,
+        "w": 118,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEleft (6).png",
+      "frame": {
+        "x": 3746,
+        "y": 756,
+        "w": 118,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 35,
+        "w": 118,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEleft (7).png",
+      "frame": {
+        "x": 3360,
+        "y": 606,
+        "w": 118,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 39,
+        "w": 118,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEleft (8).png",
+      "frame": {
+        "x": 2850,
+        "y": 464,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEright (1).png",
+      "frame": {
+        "x": 2968,
+        "y": 468,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEright (2).png",
+      "frame": {
+        "x": 3478,
+        "y": 606,
+        "w": 118,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 39,
+        "w": 118,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEright (3).png",
+      "frame": {
+        "x": 3864,
+        "y": 756,
+        "w": 118,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 35,
+        "w": 118,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEright (4).png",
+      "frame": {
+        "x": 0,
+        "y": 846,
+        "w": 118,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 35,
+        "w": 118,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEright (5).png",
+      "frame": {
+        "x": 118,
+        "y": 846,
+        "w": 118,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 35,
+        "w": 118,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEright (6).png",
+      "frame": {
+        "x": 236,
+        "y": 846,
+        "w": 118,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 35,
+        "w": 118,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEright (7).png",
+      "frame": {
+        "x": 3596,
+        "y": 606,
+        "w": 118,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 39,
+        "w": 118,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonarcherIDLEright (8).png",
+      "frame": {
+        "x": 3086,
+        "y": 472,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (1).png",
+      "frame": {
+        "x": 3070,
+        "y": 338,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (2).png",
+      "frame": {
+        "x": 3204,
+        "y": 472,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (3).png",
+      "frame": {
+        "x": 3188,
+        "y": 342,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (4).png",
+      "frame": {
+        "x": 3322,
+        "y": 472,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (5).png",
+      "frame": {
+        "x": 3306,
+        "y": 342,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (6).png",
+      "frame": {
+        "x": 3424,
+        "y": 342,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (7).png",
+      "frame": {
+        "x": 3440,
+        "y": 472,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (8).png",
+      "frame": {
+        "x": 3542,
+        "y": 342,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (9).png",
+      "frame": {
+        "x": 3944,
+        "y": 110,
+        "w": 118,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 51,
+        "w": 118,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.357143
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (10).png",
+      "frame": {
+        "x": 3660,
+        "y": 342,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (11).png",
+      "frame": {
+        "x": 3778,
+        "y": 342,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKleft (12).png",
+      "frame": {
+        "x": 1768,
+        "y": 334,
+        "w": 118,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 51,
+        "w": 118,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.483051,
+        "y": 0.357143
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (1).png",
+      "frame": {
+        "x": 3896,
+        "y": 354,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (2).png",
+      "frame": {
+        "x": 3558,
+        "y": 472,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (3).png",
+      "frame": {
+        "x": 0,
+        "y": 444,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (4).png",
+      "frame": {
+        "x": 3676,
+        "y": 472,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (5).png",
+      "frame": {
+        "x": 118,
+        "y": 444,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (6).png",
+      "frame": {
+        "x": 236,
+        "y": 444,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (7).png",
+      "frame": {
+        "x": 3794,
+        "y": 484,
+        "w": 118,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 43,
+        "w": 118,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (8).png",
+      "frame": {
+        "x": 354,
+        "y": 444,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (9).png",
+      "frame": {
+        "x": 1886,
+        "y": 334,
+        "w": 118,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 51,
+        "w": 118,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.357143
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (10).png",
+      "frame": {
+        "x": 472,
+        "y": 452,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (11).png",
+      "frame": {
+        "x": 590,
+        "y": 452,
+        "w": 118,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 47,
+        "w": 118,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonarcherWALKright (12).png",
+      "frame": {
+        "x": 2004,
+        "y": 334,
+        "w": 118,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 51,
+        "w": 118,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.516949,
+        "y": 0.357143
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (1).png",
+      "frame": {
+        "x": 3912,
+        "y": 484,
+        "w": 150,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 215,
+        "y": 139,
+        "w": 150,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.46,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (2).png",
+      "frame": {
+        "x": 708,
+        "y": 452,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 211,
+        "y": 143,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.486667,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (3).png",
+      "frame": {
+        "x": 2436,
+        "y": 110,
+        "w": 166,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 159,
+        "w": 166,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.560241,
+        "y": 0.289474
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (4).png",
+      "frame": {
+        "x": 1780,
+        "y": 0,
+        "w": 166,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 191,
+        "y": 163,
+        "w": 166,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.560241,
+        "y": 0.263636
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (5).png",
+      "frame": {
+        "x": 534,
+        "y": 330,
+        "w": 218,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 163,
+        "y": 151,
+        "w": 218,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 122
+      },
+      "pivot": {
+        "x": 0.555046,
+        "y": 0.336066
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (6).png",
+      "frame": {
+        "x": 752,
+        "y": 330,
+        "w": 218,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 163,
+        "y": 151,
+        "w": 218,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 122
+      },
+      "pivot": {
+        "x": 0.555046,
+        "y": 0.336066
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (7).png",
+      "frame": {
+        "x": 2122,
+        "y": 334,
+        "w": 134,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 247,
+        "y": 147,
+        "w": 134,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.276119,
+        "y": 0.357143
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (8).png",
+      "frame": {
+        "x": 2256,
+        "y": 338,
+        "w": 122,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 255,
+        "y": 147,
+        "w": 122,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.237705,
+        "y": 0.357143
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (9).png",
+      "frame": {
+        "x": 2715,
+        "y": 2019,
+        "w": 298,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 91,
+        "w": 298,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 197
+      },
+      "pivot": {
+        "x": 0.755034,
+        "y": 0.51269
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (10).png",
+      "frame": {
+        "x": 3013,
+        "y": 2032,
+        "w": 298,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 91,
+        "w": 298,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 197
+      },
+      "pivot": {
+        "x": 0.755034,
+        "y": 0.51269
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (11).png",
+      "frame": {
+        "x": 1619,
+        "y": 1995,
+        "w": 270,
+        "h": 193
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 95,
+        "w": 270,
+        "h": 193
+      },
+      "sourceSize": {
+        "w": 270,
+        "h": 193
+      },
+      "pivot": {
+        "x": 0.818519,
+        "y": 0.502591
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (12).png",
+      "frame": {
+        "x": 0,
+        "y": 2138,
+        "w": 282,
+        "h": 217
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 71,
+        "w": 282,
+        "h": 217
+      },
+      "sourceSize": {
+        "w": 282,
+        "h": 217
+      },
+      "pivot": {
+        "x": 0.783688,
+        "y": 0.557604
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (13).png",
+      "frame": {
+        "x": 2159,
+        "y": 2004,
+        "w": 278,
+        "h": 194
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 87,
+        "w": 278,
+        "h": 194
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 194
+      },
+      "pivot": {
+        "x": 0.751799,
+        "y": 0.541237
+      }
+    },
+    {
+      "filename": "skeletonATTACKleft (14).png",
+      "frame": {
+        "x": 0,
+        "y": 574,
+        "w": 150,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 215,
+        "y": 139,
+        "w": 150,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.46,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_00.png",
+      "frame": {
+        "x": 150,
+        "y": 574,
+        "w": 150,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 139,
+        "w": 150,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.513333,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_01.png",
+      "frame": {
+        "x": 858,
+        "y": 452,
+        "w": 150,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 143,
+        "w": 150,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.486667,
+        "y": 0.376923
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_02.png",
+      "frame": {
+        "x": 2602,
+        "y": 110,
+        "w": 166,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 159,
+        "w": 166,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.415663,
+        "y": 0.289474
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_03.png",
+      "frame": {
+        "x": 1946,
+        "y": 0,
+        "w": 166,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 163,
+        "w": 166,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.415663,
+        "y": 0.263636
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_04.png",
+      "frame": {
+        "x": 970,
+        "y": 330,
+        "w": 218,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 151,
+        "w": 218,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 122
+      },
+      "pivot": {
+        "x": 0.426606,
+        "y": 0.336066
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_05.png",
+      "frame": {
+        "x": 1188,
+        "y": 330,
+        "w": 218,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 151,
+        "w": 218,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 122
+      },
+      "pivot": {
+        "x": 0.426606,
+        "y": 0.336066
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_06.png",
+      "frame": {
+        "x": 2378,
+        "y": 338,
+        "w": 134,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 147,
+        "w": 134,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.69403,
+        "y": 0.357143
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_07.png",
+      "frame": {
+        "x": 2512,
+        "y": 338,
+        "w": 122,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 147,
+        "w": 122,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 122,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.729508,
+        "y": 0.357143
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_08.png",
+      "frame": {
+        "x": 3311,
+        "y": 2036,
+        "w": 298,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 91,
+        "w": 298,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 197
+      },
+      "pivot": {
+        "x": 0.231544,
+        "y": 0.51269
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_09.png",
+      "frame": {
+        "x": 3609,
+        "y": 2036,
+        "w": 298,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 91,
+        "w": 298,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 298,
+        "h": 197
+      },
+      "pivot": {
+        "x": 0.231544,
+        "y": 0.51269
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_10.png",
+      "frame": {
+        "x": 1889,
+        "y": 2000,
+        "w": 270,
+        "h": 193
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 95,
+        "w": 270,
+        "h": 193
+      },
+      "sourceSize": {
+        "w": 270,
+        "h": 193
+      },
+      "pivot": {
+        "x": 0.166667,
+        "y": 0.502591
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_11.png",
+      "frame": {
+        "x": 282,
+        "y": 2141,
+        "w": 282,
+        "h": 217
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 71,
+        "w": 282,
+        "h": 217
+      },
+      "sourceSize": {
+        "w": 282,
+        "h": 217
+      },
+      "pivot": {
+        "x": 0.202128,
+        "y": 0.557604
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_12.png",
+      "frame": {
+        "x": 2437,
+        "y": 2016,
+        "w": 278,
+        "h": 194
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 87,
+        "w": 278,
+        "h": 194
+      },
+      "sourceSize": {
+        "w": 278,
+        "h": 194
+      },
+      "pivot": {
+        "x": 0.233813,
+        "y": 0.541237
+      }
+    },
+    {
+      "filename": "skeletonATTACKright_13.png",
+      "frame": {
+        "x": 300,
+        "y": 574,
+        "w": 150,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 139,
+        "w": 150,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.513333,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKleft (1).png",
+      "frame": {
+        "x": 564,
+        "y": 2145,
+        "w": 202,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 27,
+        "w": 202,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.59901,
+        "y": 0.686992
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKleft (2).png",
+      "frame": {
+        "x": 1776,
+        "y": 2193,
+        "w": 206,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 11,
+        "w": 206,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 262
+      },
+      "pivot": {
+        "x": 0.606796,
+        "y": 0.706107
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKleft (3).png",
+      "frame": {
+        "x": 1982,
+        "y": 2198,
+        "w": 206,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 11,
+        "w": 206,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 262
+      },
+      "pivot": {
+        "x": 0.606796,
+        "y": 0.706107
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKleft (4).png",
+      "frame": {
+        "x": 2188,
+        "y": 2198,
+        "w": 210,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 11,
+        "w": 210,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 262
+      },
+      "pivot": {
+        "x": 0.614286,
+        "y": 0.706107
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKleft (5).png",
+      "frame": {
+        "x": 2398,
+        "y": 2210,
+        "w": 210,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 11,
+        "w": 210,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 262
+      },
+      "pivot": {
+        "x": 0.614286,
+        "y": 0.706107
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKleft (6).png",
+      "frame": {
+        "x": 1372,
+        "y": 2168,
+        "w": 202,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 23,
+        "w": 202,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.59901,
+        "y": 0.692
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKleft (7).png",
+      "frame": {
+        "x": 766,
+        "y": 2145,
+        "w": 202,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 27,
+        "w": 202,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.59901,
+        "y": 0.686992
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKright_00.png",
+      "frame": {
+        "x": 968,
+        "y": 2153,
+        "w": 202,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 27,
+        "w": 202,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.40099,
+        "y": 0.686992
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKright_01.png",
+      "frame": {
+        "x": 2608,
+        "y": 2216,
+        "w": 206,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 11,
+        "w": 206,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 262
+      },
+      "pivot": {
+        "x": 0.393204,
+        "y": 0.706107
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKright_02.png",
+      "frame": {
+        "x": 2814,
+        "y": 2229,
+        "w": 206,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 11,
+        "w": 206,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 262
+      },
+      "pivot": {
+        "x": 0.393204,
+        "y": 0.706107
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKright_03.png",
+      "frame": {
+        "x": 3020,
+        "y": 2229,
+        "w": 210,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 11,
+        "w": 210,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 262
+      },
+      "pivot": {
+        "x": 0.385714,
+        "y": 0.706107
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKright_04.png",
+      "frame": {
+        "x": 3230,
+        "y": 2233,
+        "w": 210,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 11,
+        "w": 210,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 262
+      },
+      "pivot": {
+        "x": 0.385714,
+        "y": 0.706107
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKright_05.png",
+      "frame": {
+        "x": 1574,
+        "y": 2188,
+        "w": 202,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 23,
+        "w": 202,
+        "h": 250
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.40099,
+        "y": 0.692
+      }
+    },
+    {
+      "filename": "skeletonchiefATTACKright_06.png",
+      "frame": {
+        "x": 1170,
+        "y": 2156,
+        "w": 202,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 27,
+        "w": 202,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.40099,
+        "y": 0.686992
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEleft (1).png",
+      "frame": {
+        "x": 0,
+        "y": 1616,
+        "w": 162,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 7,
+        "w": 162,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEleft (2).png",
+      "frame": {
+        "x": 0,
+        "y": 1786,
+        "w": 162,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 3,
+        "w": 162,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEleft (3).png",
+      "frame": {
+        "x": 1268,
+        "y": 1802,
+        "w": 162,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 162,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEleft (4).png",
+      "frame": {
+        "x": 1430,
+        "y": 1806,
+        "w": 162,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 162,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEleft (5).png",
+      "frame": {
+        "x": 1592,
+        "y": 1814,
+        "w": 162,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 162,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEleft (6).png",
+      "frame": {
+        "x": 1754,
+        "y": 1818,
+        "w": 162,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 162,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEleft (7).png",
+      "frame": {
+        "x": 782,
+        "y": 1794,
+        "w": 162,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 3,
+        "w": 162,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEleft (8).png",
+      "frame": {
+        "x": 1434,
+        "y": 1636,
+        "w": 162,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 7,
+        "w": 162,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEright_00.png",
+      "frame": {
+        "x": 1596,
+        "y": 1644,
+        "w": 162,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 7,
+        "w": 162,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEright_01.png",
+      "frame": {
+        "x": 944,
+        "y": 1794,
+        "w": 162,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 3,
+        "w": 162,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEright_02.png",
+      "frame": {
+        "x": 2962,
+        "y": 1842,
+        "w": 162,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 162,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEright_03.png",
+      "frame": {
+        "x": 0,
+        "y": 1960,
+        "w": 162,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 162,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEright_04.png",
+      "frame": {
+        "x": 581,
+        "y": 1964,
+        "w": 162,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 162,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEright_05.png",
+      "frame": {
+        "x": 1223,
+        "y": 1979,
+        "w": 162,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 0,
+        "w": 162,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.542373
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEright_06.png",
+      "frame": {
+        "x": 1106,
+        "y": 1802,
+        "w": 162,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 3,
+        "w": 162,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefIDLEright_07.png",
+      "frame": {
+        "x": 1758,
+        "y": 1648,
+        "w": 162,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 7,
+        "w": 162,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (1).png",
+      "frame": {
+        "x": 1920,
+        "y": 1656,
+        "w": 173,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 173,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.554913,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (2).png",
+      "frame": {
+        "x": 1916,
+        "y": 1826,
+        "w": 173,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 173,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.554913,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (3).png",
+      "frame": {
+        "x": 2262,
+        "y": 1660,
+        "w": 177,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 177,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 177,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.542373,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (4).png",
+      "frame": {
+        "x": 2262,
+        "y": 1830,
+        "w": 177,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 177,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 177,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.542373,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (5).png",
+      "frame": {
+        "x": 2089,
+        "y": 1826,
+        "w": 173,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 173,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.554913,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (6).png",
+      "frame": {
+        "x": 2093,
+        "y": 1656,
+        "w": 169,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 169,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.568047,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (7).png",
+      "frame": {
+        "x": 2439,
+        "y": 1660,
+        "w": 173,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 173,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.554913,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (8).png",
+      "frame": {
+        "x": 2439,
+        "y": 1830,
+        "w": 173,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 173,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.554913,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (9).png",
+      "frame": {
+        "x": 2612,
+        "y": 1672,
+        "w": 177,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 177,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 177,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.542373,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (10).png",
+      "frame": {
+        "x": 2612,
+        "y": 1842,
+        "w": 177,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 177,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 177,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.542373,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (11).png",
+      "frame": {
+        "x": 2789,
+        "y": 1842,
+        "w": 173,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 173,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.554913,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKleft (12).png",
+      "frame": {
+        "x": 2789,
+        "y": 1672,
+        "w": 169,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 169,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.568047,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_00.png",
+      "frame": {
+        "x": 2958,
+        "y": 1672,
+        "w": 173,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 7,
+        "w": 173,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.445087,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_01.png",
+      "frame": {
+        "x": 3124,
+        "y": 1846,
+        "w": 173,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 3,
+        "w": 173,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.445087,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_02.png",
+      "frame": {
+        "x": 3131,
+        "y": 1676,
+        "w": 177,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 7,
+        "w": 177,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 177,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.457627,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_03.png",
+      "frame": {
+        "x": 3297,
+        "y": 1858,
+        "w": 177,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 3,
+        "w": 177,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 177,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.457627,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_04.png",
+      "frame": {
+        "x": 3474,
+        "y": 1862,
+        "w": 173,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 3,
+        "w": 173,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.445087,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_05.png",
+      "frame": {
+        "x": 3308,
+        "y": 1688,
+        "w": 169,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 7,
+        "w": 169,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.431953,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_06.png",
+      "frame": {
+        "x": 3477,
+        "y": 1692,
+        "w": 173,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 7,
+        "w": 173,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.445087,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_07.png",
+      "frame": {
+        "x": 3647,
+        "y": 1862,
+        "w": 173,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 3,
+        "w": 173,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.445087,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_08.png",
+      "frame": {
+        "x": 3650,
+        "y": 1692,
+        "w": 177,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 7,
+        "w": 177,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 177,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.457627,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_09.png",
+      "frame": {
+        "x": 3820,
+        "y": 1862,
+        "w": 177,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 3,
+        "w": 177,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 177,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.457627,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_10.png",
+      "frame": {
+        "x": 162,
+        "y": 1964,
+        "w": 173,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 3,
+        "w": 173,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.445087,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "skeletonchiefWALKright_11.png",
+      "frame": {
+        "x": 3827,
+        "y": 1692,
+        "w": 169,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 7,
+        "w": 169,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 169,
+        "h": 170
+      },
+      "pivot": {
+        "x": 0.431953,
+        "y": 0.523529
+      }
+    },
+    {
+      "filename": "skeletonIDLEleft (1).png",
+      "frame": {
+        "x": 450,
+        "y": 582,
+        "w": 150,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 43,
+        "w": 150,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.486667,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonIDLEleft (2).png",
+      "frame": {
+        "x": 3714,
+        "y": 618,
+        "w": 150,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 150,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.486667,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonIDLEleft (3).png",
+      "frame": {
+        "x": 354,
+        "y": 854,
+        "w": 150,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 35,
+        "w": 150,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.486667,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonIDLEleft (4).png",
+      "frame": {
+        "x": 504,
+        "y": 854,
+        "w": 150,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 35,
+        "w": 150,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.486667,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonIDLEleft (5).png",
+      "frame": {
+        "x": 654,
+        "y": 854,
+        "w": 150,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 35,
+        "w": 150,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.486667,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonIDLEleft (6).png",
+      "frame": {
+        "x": 804,
+        "y": 854,
+        "w": 150,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 35,
+        "w": 150,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.486667,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonIDLEleft (7).png",
+      "frame": {
+        "x": 3864,
+        "y": 618,
+        "w": 150,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 150,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.486667,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonIDLEleft (8).png",
+      "frame": {
+        "x": 600,
+        "y": 582,
+        "w": 150,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 43,
+        "w": 150,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.486667,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonIDLEright_00.png",
+      "frame": {
+        "x": 750,
+        "y": 582,
+        "w": 150,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 43,
+        "w": 150,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.513333,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonIDLEright_01.png",
+      "frame": {
+        "x": 0,
+        "y": 708,
+        "w": 150,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 39,
+        "w": 150,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.513333,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonIDLEright_02.png",
+      "frame": {
+        "x": 954,
+        "y": 854,
+        "w": 150,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 35,
+        "w": 150,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.513333,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonIDLEright_03.png",
+      "frame": {
+        "x": 1104,
+        "y": 854,
+        "w": 150,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 35,
+        "w": 150,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.513333,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonIDLEright_04.png",
+      "frame": {
+        "x": 1254,
+        "y": 858,
+        "w": 150,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 35,
+        "w": 150,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.513333,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonIDLEright_05.png",
+      "frame": {
+        "x": 1404,
+        "y": 858,
+        "w": 150,
+        "h": 142
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 35,
+        "w": 150,
+        "h": 142
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 142
+      },
+      "pivot": {
+        "x": 0.513333,
+        "y": 0.429577
+      }
+    },
+    {
+      "filename": "skeletonIDLEright_06.png",
+      "frame": {
+        "x": 150,
+        "y": 708,
+        "w": 150,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 39,
+        "w": 150,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.513333,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonIDLEright_07.png",
+      "frame": {
+        "x": 900,
+        "y": 582,
+        "w": 150,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 43,
+        "w": 150,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.513333,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (1).png",
+      "frame": {
+        "x": 1050,
+        "y": 582,
+        "w": 142,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 43,
+        "w": 142,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.514085,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (2).png",
+      "frame": {
+        "x": 300,
+        "y": 708,
+        "w": 142,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 142,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.514085,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (3).png",
+      "frame": {
+        "x": 1192,
+        "y": 582,
+        "w": 146,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 43,
+        "w": 146,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (4).png",
+      "frame": {
+        "x": 442,
+        "y": 716,
+        "w": 146,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 146,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (5).png",
+      "frame": {
+        "x": 588,
+        "y": 716,
+        "w": 142,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 142,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.514085,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (6).png",
+      "frame": {
+        "x": 1338,
+        "y": 586,
+        "w": 138,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 43,
+        "w": 138,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 138,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.528986,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (7).png",
+      "frame": {
+        "x": 1476,
+        "y": 586,
+        "w": 142,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 43,
+        "w": 142,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.514085,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (8).png",
+      "frame": {
+        "x": 730,
+        "y": 716,
+        "w": 142,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 142,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.514085,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (9).png",
+      "frame": {
+        "x": 1740,
+        "y": 590,
+        "w": 146,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 43,
+        "w": 146,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (10).png",
+      "frame": {
+        "x": 872,
+        "y": 716,
+        "w": 146,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 146,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (11).png",
+      "frame": {
+        "x": 1018,
+        "y": 716,
+        "w": 142,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 142,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.514085,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKleft (12).png",
+      "frame": {
+        "x": 1886,
+        "y": 590,
+        "w": 138,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 43,
+        "w": 138,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 138,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.528986,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKright_00.png",
+      "frame": {
+        "x": 2146,
+        "y": 594,
+        "w": 142,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 43,
+        "w": 142,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.485915,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKright_01.png",
+      "frame": {
+        "x": 1160,
+        "y": 716,
+        "w": 142,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 39,
+        "w": 142,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.485915,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKright_02.png",
+      "frame": {
+        "x": 2288,
+        "y": 598,
+        "w": 146,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 43,
+        "w": 146,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKright_03.png",
+      "frame": {
+        "x": 1302,
+        "y": 720,
+        "w": 146,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 146,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKright_04.png",
+      "frame": {
+        "x": 1448,
+        "y": 720,
+        "w": 142,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 39,
+        "w": 142,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.485915,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKright_05.png",
+      "frame": {
+        "x": 2434,
+        "y": 598,
+        "w": 138,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 43,
+        "w": 138,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 138,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.471014,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKright_06.png",
+      "frame": {
+        "x": 2572,
+        "y": 598,
+        "w": 142,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 43,
+        "w": 142,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.485915,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKright_07.png",
+      "frame": {
+        "x": 1590,
+        "y": 724,
+        "w": 142,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 39,
+        "w": 142,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.485915,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKright_08.png",
+      "frame": {
+        "x": 2714,
+        "y": 598,
+        "w": 146,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 43,
+        "w": 146,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "skeletonWALKright_09.png",
+      "frame": {
+        "x": 1732,
+        "y": 724,
+        "w": 146,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 39,
+        "w": 146,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 146,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKright_10.png",
+      "frame": {
+        "x": 1878,
+        "y": 724,
+        "w": 142,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 39,
+        "w": 142,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 142,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.485915,
+        "y": 0.413043
+      }
+    },
+    {
+      "filename": "skeletonWALKright_11.png",
+      "frame": {
+        "x": 2860,
+        "y": 602,
+        "w": 138,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 43,
+        "w": 138,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 138,
+        "h": 134
+      },
+      "pivot": {
+        "x": 0.471014,
+        "y": 0.395522
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (1).png",
+      "frame": {
+        "x": 2768,
+        "y": 110,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (2).png",
+      "frame": {
+        "x": 2112,
+        "y": 0,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 59,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (3).png",
+      "frame": {
+        "x": 740,
+        "y": 0,
+        "w": 173,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 63,
+        "w": 173,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.445087,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (4).png",
+      "frame": {
+        "x": 913,
+        "y": 0,
+        "w": 173,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 63,
+        "w": 173,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.445087,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (5).png",
+      "frame": {
+        "x": 1008,
+        "y": 452,
+        "w": 202,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 35,
+        "w": 202,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.638614,
+        "y": 0.623077
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (6).png",
+      "frame": {
+        "x": 1210,
+        "y": 452,
+        "w": 206,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 35,
+        "w": 206,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.665049,
+        "y": 0.623077
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (7).png",
+      "frame": {
+        "x": 2020,
+        "y": 728,
+        "w": 218,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 27,
+        "w": 218,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.683486,
+        "y": 0.644928
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (8).png",
+      "frame": {
+        "x": 1534,
+        "y": 456,
+        "w": 218,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 55,
+        "w": 218,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.830275,
+        "y": 0.469231
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (9).png",
+      "frame": {
+        "x": 2634,
+        "y": 338,
+        "w": 218,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 59,
+        "w": 218,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.830275,
+        "y": 0.452381
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (10).png",
+      "frame": {
+        "x": 2942,
+        "y": 110,
+        "w": 222,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 222,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 222,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.833333,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (11).png",
+      "frame": {
+        "x": 3164,
+        "y": 110,
+        "w": 210,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 55,
+        "w": 210,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.82381,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (12).png",
+      "frame": {
+        "x": 2286,
+        "y": 0,
+        "w": 226,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 59,
+        "w": 226,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.765487,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (13).png",
+      "frame": {
+        "x": 2512,
+        "y": 0,
+        "w": 182,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 55,
+        "w": 182,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.598901,
+        "y": 0.554545
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (14).png",
+      "frame": {
+        "x": 2694,
+        "y": 0,
+        "w": 190,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 51,
+        "w": 190,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.594737,
+        "y": 0.590909
+      }
+    },
+    {
+      "filename": "wolfATTACKleft (15).png",
+      "frame": {
+        "x": 3374,
+        "y": 110,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfATTACKright (1).png",
+      "frame": {
+        "x": 3548,
+        "y": 110,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfATTACKright (2).png",
+      "frame": {
+        "x": 2884,
+        "y": 0,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 59,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfATTACKright (3).png",
+      "frame": {
+        "x": 1086,
+        "y": 0,
+        "w": 173,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 63,
+        "w": 173,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.554913,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "wolfATTACKright (4).png",
+      "frame": {
+        "x": 1259,
+        "y": 0,
+        "w": 173,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 63,
+        "w": 173,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.554913,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "wolfATTACKright (5).png",
+      "frame": {
+        "x": 1752,
+        "y": 460,
+        "w": 202,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 35,
+        "w": 202,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.361386,
+        "y": 0.623077
+      }
+    },
+    {
+      "filename": "wolfATTACKright (6).png",
+      "frame": {
+        "x": 1954,
+        "y": 460,
+        "w": 206,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 35,
+        "w": 206,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.334951,
+        "y": 0.623077
+      }
+    },
+    {
+      "filename": "wolfATTACKright (7).png",
+      "frame": {
+        "x": 2238,
+        "y": 732,
+        "w": 218,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 27,
+        "w": 218,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 138
+      },
+      "pivot": {
+        "x": 0.316514,
+        "y": 0.644928
+      }
+    },
+    {
+      "filename": "wolfATTACKright (8).png",
+      "frame": {
+        "x": 2160,
+        "y": 464,
+        "w": 218,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 55,
+        "w": 218,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 130
+      },
+      "pivot": {
+        "x": 0.169725,
+        "y": 0.469231
+      }
+    },
+    {
+      "filename": "wolfATTACKright (9).png",
+      "frame": {
+        "x": 2852,
+        "y": 338,
+        "w": 218,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 59,
+        "w": 218,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 126
+      },
+      "pivot": {
+        "x": 0.169725,
+        "y": 0.452381
+      }
+    },
+    {
+      "filename": "wolfATTACKright (10).png",
+      "frame": {
+        "x": 3722,
+        "y": 110,
+        "w": 222,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 55,
+        "w": 222,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 222,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.166667,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfATTACKright (11).png",
+      "frame": {
+        "x": 0,
+        "y": 212,
+        "w": 210,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 55,
+        "w": 210,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.17619,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfATTACKright (12).png",
+      "frame": {
+        "x": 3058,
+        "y": 0,
+        "w": 226,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 59,
+        "w": 226,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.234513,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfATTACKright (13).png",
+      "frame": {
+        "x": 3284,
+        "y": 0,
+        "w": 182,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 55,
+        "w": 182,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.401099,
+        "y": 0.554545
+      }
+    },
+    {
+      "filename": "wolfATTACKright (14).png",
+      "frame": {
+        "x": 3466,
+        "y": 0,
+        "w": 190,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 51,
+        "w": 190,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.405263,
+        "y": 0.590909
+      }
+    },
+    {
+      "filename": "wolfATTACKright (15).png",
+      "frame": {
+        "x": 210,
+        "y": 212,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (1).png",
+      "frame": {
+        "x": 384,
+        "y": 212,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (2).png",
+      "frame": {
+        "x": 558,
+        "y": 216,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (3).png",
+      "frame": {
+        "x": 3656,
+        "y": 0,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 59,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (4).png",
+      "frame": {
+        "x": 3830,
+        "y": 0,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 59,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (5).png",
+      "frame": {
+        "x": 1432,
+        "y": 0,
+        "w": 174,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 63,
+        "w": 174,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (6).png",
+      "frame": {
+        "x": 732,
+        "y": 216,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (7).png",
+      "frame": {
+        "x": 906,
+        "y": 216,
+        "w": 178,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 178,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (8).png",
+      "frame": {
+        "x": 3208,
+        "y": 224,
+        "w": 178,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 51,
+        "w": 178,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.522472,
+        "y": 0.550847
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (9).png",
+      "frame": {
+        "x": 1406,
+        "y": 330,
+        "w": 181,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 51,
+        "w": 181,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 181,
+        "h": 122
+      },
+      "pivot": {
+        "x": 0.530387,
+        "y": 0.532787
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (10).png",
+      "frame": {
+        "x": 3386,
+        "y": 224,
+        "w": 170,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 51,
+        "w": 170,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.550847
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (11).png",
+      "frame": {
+        "x": 1084,
+        "y": 216,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEleft (12).png",
+      "frame": {
+        "x": 1258,
+        "y": 216,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEright (1).png",
+      "frame": {
+        "x": 1432,
+        "y": 216,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEright (2).png",
+      "frame": {
+        "x": 1606,
+        "y": 220,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEright (3).png",
+      "frame": {
+        "x": 0,
+        "y": 102,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 59,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfIDLEright (4).png",
+      "frame": {
+        "x": 174,
+        "y": 102,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 59,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfIDLEright (5).png",
+      "frame": {
+        "x": 1606,
+        "y": 0,
+        "w": 174,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 63,
+        "w": 174,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 106
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "wolfIDLEright (6).png",
+      "frame": {
+        "x": 1780,
+        "y": 220,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEright (7).png",
+      "frame": {
+        "x": 1954,
+        "y": 220,
+        "w": 178,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 178,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEright (8).png",
+      "frame": {
+        "x": 3556,
+        "y": 224,
+        "w": 178,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 51,
+        "w": 178,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.477528,
+        "y": 0.550847
+      }
+    },
+    {
+      "filename": "wolfIDLEright (9).png",
+      "frame": {
+        "x": 1587,
+        "y": 334,
+        "w": 181,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 51,
+        "w": 181,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 181,
+        "h": 122
+      },
+      "pivot": {
+        "x": 0.469613,
+        "y": 0.532787
+      }
+    },
+    {
+      "filename": "wolfIDLEright (10).png",
+      "frame": {
+        "x": 3734,
+        "y": 224,
+        "w": 170,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 51,
+        "w": 170,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.550847
+      }
+    },
+    {
+      "filename": "wolfIDLEright (11).png",
+      "frame": {
+        "x": 2132,
+        "y": 220,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfIDLEright (12).png",
+      "frame": {
+        "x": 2306,
+        "y": 224,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfWALKleft (1).png",
+      "frame": {
+        "x": 348,
+        "y": 102,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 59,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfWALKleft (2).png",
+      "frame": {
+        "x": 3904,
+        "y": 236,
+        "w": 178,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 51,
+        "w": 178,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.550847
+      }
+    },
+    {
+      "filename": "wolfWALKleft (3).png",
+      "frame": {
+        "x": 2480,
+        "y": 224,
+        "w": 182,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 55,
+        "w": 182,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.510989,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfWALKleft (4).png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 59,
+        "w": 185,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.518919,
+        "y": 0.558824
+      }
+    },
+    {
+      "filename": "wolfWALKleft (5).png",
+      "frame": {
+        "x": 522,
+        "y": 102,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 51,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.590909
+      }
+    },
+    {
+      "filename": "wolfWALKleft (6).png",
+      "frame": {
+        "x": 696,
+        "y": 106,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 55,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.554545
+      }
+    },
+    {
+      "filename": "wolfWALKleft (7).png",
+      "frame": {
+        "x": 870,
+        "y": 106,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 59,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfWALKleft (8).png",
+      "frame": {
+        "x": 0,
+        "y": 326,
+        "w": 178,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 51,
+        "w": 178,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.550847
+      }
+    },
+    {
+      "filename": "wolfWALKleft (9).png",
+      "frame": {
+        "x": 2662,
+        "y": 224,
+        "w": 182,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 55,
+        "w": 182,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.510989,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfWALKleft (10).png",
+      "frame": {
+        "x": 185,
+        "y": 0,
+        "w": 185,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 59,
+        "w": 185,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.518919,
+        "y": 0.558824
+      }
+    },
+    {
+      "filename": "wolfWALKleft (11).png",
+      "frame": {
+        "x": 1044,
+        "y": 106,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 51,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.590909
+      }
+    },
+    {
+      "filename": "wolfWALKleft (12).png",
+      "frame": {
+        "x": 1218,
+        "y": 106,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 55,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.488506,
+        "y": 0.554545
+      }
+    },
+    {
+      "filename": "wolfWALKright (1).png",
+      "frame": {
+        "x": 1392,
+        "y": 106,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 59,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfWALKright (2).png",
+      "frame": {
+        "x": 178,
+        "y": 326,
+        "w": 178,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 51,
+        "w": 178,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.550847
+      }
+    },
+    {
+      "filename": "wolfWALKright (3).png",
+      "frame": {
+        "x": 2844,
+        "y": 224,
+        "w": 182,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 182,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.489011,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfWALKright (4).png",
+      "frame": {
+        "x": 370,
+        "y": 0,
+        "w": 185,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 59,
+        "w": 185,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.481081,
+        "y": 0.558824
+      }
+    },
+    {
+      "filename": "wolfWALKright (5).png",
+      "frame": {
+        "x": 1566,
+        "y": 106,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 51,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.590909
+      }
+    },
+    {
+      "filename": "wolfWALKright (6).png",
+      "frame": {
+        "x": 1740,
+        "y": 110,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.554545
+      }
+    },
+    {
+      "filename": "wolfWALKright (7).png",
+      "frame": {
+        "x": 1914,
+        "y": 110,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 59,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.518182
+      }
+    },
+    {
+      "filename": "wolfWALKright (8).png",
+      "frame": {
+        "x": 356,
+        "y": 326,
+        "w": 178,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 51,
+        "w": 178,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 118
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.550847
+      }
+    },
+    {
+      "filename": "wolfWALKright (9).png",
+      "frame": {
+        "x": 3026,
+        "y": 224,
+        "w": 182,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 182,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.489011,
+        "y": 0.535088
+      }
+    },
+    {
+      "filename": "wolfWALKright (10).png",
+      "frame": {
+        "x": 555,
+        "y": 0,
+        "w": 185,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 59,
+        "w": 185,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 185,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.481081,
+        "y": 0.558824
+      }
+    },
+    {
+      "filename": "wolfWALKright (11).png",
+      "frame": {
+        "x": 2088,
+        "y": 110,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 51,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.590909
+      }
+    },
+    {
+      "filename": "wolfWALKright (12).png",
+      "frame": {
+        "x": 2262,
+        "y": 110,
+        "w": 174,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 55,
+        "w": 174,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 110
+      },
+      "pivot": {
+        "x": 0.511494,
+        "y": 0.554545
+      }
+    }
+  ],
+  "Animations": [
+    {
+      "Animation Name": "Robot_00_Attack_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 0,
+      "Animation End": 16,
+      "Animation Speed": 10,
+
+      "Animation Length": 17
+    },
+    {
+      "Animation Name": "Robot_00_Attack_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 17,
+      "Animation End": 33,
+      "Animation Speed": 10,
+
+      "Animation Length": 17
+    },
+    {
+      "Animation Name": "Robot_00_Idle_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 34,
+      "Animation End": 51,
+      "Animation Speed": 10,
+
+      "Animation Length": 18
+    },
+    {
+      "Animation Name": "Robot_00_Idle_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 52,
+      "Animation End": 69,
+      "Animation Speed": 10,
+
+      "Animation Length": 18
+    },
+    {
+      "Animation Name": "Robot_00_Walk_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 70,
+      "Animation End": 78,
+      "Animation Speed": 10,
+
+      "Animation Length": 9
+    },
+    {
+      "Animation Name": "Robot_00_Walk_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 79,
+      "Animation End": 87,
+      "Animation Speed": 10,
+
+      "Animation Length": 9
+    },
+
+
+    {
+      "Animation Name": "Skeleton_Archer_00_Attack_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 88,
+      "Animation End": 103,
+      "Animation Speed": 10,
+
+      "Animation Length": 16
+    },
+    {
+      "Animation Name": "Skeleton_Archer_00_Attack_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 104,
+      "Animation End": 119,
+      "Animation Speed": 10,
+
+      "Animation Length": 16
+    },
+    {
+      "Animation Name": "Skeleton_Archer_00_Idle_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 120,
+      "Animation End": 127,
+      "Animation Speed": 10,
+
+      "Animation Length": 8
+    },
+    {
+      "Animation Name": "Skeleton_Archer_00_Idle_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 128,
+      "Animation End": 135,
+      "Animation Speed": 10,
+
+      "Animation Length": 8
+    },
+    {
+      "Animation Name": "Skeleton_Archer_00_Walk_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 136,
+      "Animation End": 147,
+      "Animation Speed": 10,
+
+      "Animation Length": 12
+    },
+    {
+      "Animation Name": "Skeleton_Archer_00_Walk_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 148,
+      "Animation End": 159,
+      "Animation Speed": 10,
+
+      "Animation Length": 12
+    },
+
+
+    {
+      "Animation Name": "Skeleton_00_Attack_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 160,
+      "Animation End": 173,
+      "Animation Speed": 10,
+
+      "Animation Length": 14
+    },
+    {
+      "Animation Name": "Skeleton_00_Attack_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 174,
+      "Animation End": 187,
+      "Animation Speed": 10,
+
+      "Animation Length": 14
+    },
+
+
+    {
+      "Animation Name": "Skeleton_Chief_00_Attack_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 188,
+      "Animation End": 194,
+      "Animation Speed": 10,
+
+      "Animation Length": 7
+    },
+    {
+      "Animation Name": "Skeleton_Chief_00_Attack_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 195,
+      "Animation End": 201,
+      "Animation Speed": 10,
+
+      "Animation Length": 7
+    },
+    {
+      "Animation Name": "Skeleton_Chief_00_Idle_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 202,
+      "Animation End": 209,
+      "Animation Speed": 10,
+
+      "Animation Length": 8
+    },
+    {
+      "Animation Name": "Skeleton_Chief_00_Idle_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 210,
+      "Animation End": 217,
+      "Animation Speed": 10,
+
+      "Animation Length": 8
+    },
+    {
+      "Animation Name": "Skeleton_Chief_00_Walk_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 218,
+      "Animation End": 229,
+      "Animation Speed": 10,
+
+      "Animation Length": 12
+    },
+    {
+      "Animation Name": "Skeleton_Chief_00_Walk_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 230,
+      "Animation End": 241,
+      "Animation Speed": 10,
+
+      "Animation Length": 12
+    },
+
+
+    {
+      "Animation Name": "Skeleton_00_Idle_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 242,
+      "Animation End": 249,
+      "Animation Speed": 10,
+
+      "Animation Length": 8
+    },
+    {
+      "Animation Name": "Skeleton_00_Idle_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 250,
+      "Animation End": 257,
+      "Animation Speed": 10,
+
+      "Animation Length": 8
+    },
+    {
+      "Animation Name": "Skeleton_00_Walk_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 258,
+      "Animation End": 269,
+      "Animation Speed": 10,
+
+      "Animation Length": 12
+    },
+    {
+      "Animation Name": "Skeleton_00_Walk_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 270,
+      "Animation End": 281,
+      "Animation Speed": 10,
+
+      "Animation Length": 12
+    },
+
+
+    {
+      "Animation Name": "Wolf_00_Attack_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 282,
+      "Animation End": 296,
+      "Animation Speed": 10,
+
+      "Animation Length": 15
+    },
+    {
+      "Animation Name": "Wolf_00_Attack_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 297,
+      "Animation End": 311,
+      "Animation Speed": 10,
+
+      "Animation Length": 15
+    },
+    {
+      "Animation Name": "Wolf_00_Idle_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 312,
+      "Animation End": 323,
+      "Animation Speed": 10,
+
+      "Animation Length": 12
+    },
+    {
+      "Animation Name": "Wolf_00_Idle_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 324,
+      "Animation End": 335,
+      "Animation Speed": 10,
+
+      "Animation Length": 12
+    },
+    {
+      "Animation Name": "Wolf_00_Walk_Left",
+      "Animation Type ID": 0,
+
+      "Animation Start": 336,
+      "Animation End": 347,
+      "Animation Speed": 10,
+
+      "Animation Length": 12
+    },
+    {
+      "Animation Name": "Wolf_00_Walk_Right",
+      "Animation Type ID": 0,
+
+      "Animation Start": 348,
+      "Animation End": 359,
+      "Animation Speed": 10,
+
+      "Animation Length": 12
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "TexturePackerTest_00.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4096,
+      "h": 4096
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:fda5a5b20685bd54c7e0a54b12738672:1500a8883dbf7663b98a0a454331e1f0:de5b75fe6a9d5ae3c080d3ac8017f992$"
+  }
+}

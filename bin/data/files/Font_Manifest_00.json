@@ -1,0 +1,68 @@
+{
+  "Fonts": [
+    {
+      "Font Name": "Calibri_12",
+      "Font Filepath": "data/fonts/Default_Calibri_12.spritefont"
+    },
+    {
+      "Font Name": "Calibri_14",
+      "Font Filepath": "data/fonts/Default_Calibri_14.spritefont"
+    },
+    {
+      "Font Name": "Calibri_16",
+      "Font Filepath": "data/fonts/Default_Calibri_16.spritefont"
+    },
+    {
+      "Font Name": "Calibri_18",
+      "Font Filepath": "data/fonts/Default_Calibri_18.spritefont"
+    },
+    {
+      "Font Name": "Calibri_20",
+      "Font Filepath": "data/fonts/Default_Calibri_20.spritefont"
+    },
+    {
+      "Font Name": "Calibri_22",
+      "Font Filepath": "data/fonts/Default_Calibri_22.spritefont"
+    },
+    {
+      "Font Name": "ExpressionPro_20",
+      "Font Filepath": "data/fonts/ExpressionPro20Sharp.spritefont"
+    },
+    {
+      "Font Name": "ExpressionPro_24",
+      "Font Filepath": "data/fonts/ExpressionPro24Sharp.spritefont"
+    },
+    {
+      "Font Name": "ExpressionPro_28",
+      "Font Filepath": "data/fonts/ExpressionPro28Sharp.spritefont"
+    },
+    {
+      "Font Name": "ExpressionPro_32",
+      "Font Filepath": "data/fonts/ExpressionPro32Sharp.spritefont"
+    },
+    {
+      "Font Name": "ExpressionPro_36",
+      "Font Filepath": "data/fonts/ExpressionPro36Sharp.spritefont"
+    },
+    {
+      "Font Name": "Alagard_16_Sharp",
+      "Font Filepath": "data/fonts/Alagard_16_Sharp.spritefont"
+    },
+    {
+      "Font Name": "Alagard_18_Sharp",
+      "Font Filepath": "data/fonts/Alagard_18_Sharp.spritefont"
+    },
+    {
+      "Font Name": "Alagard_20_Sharp",
+      "Font Filepath": "data/fonts/Alagard_20_Sharp.spritefont"
+    },
+    {
+      "Font Name": "Alagard_22_Sharp",
+      "Font Filepath": "data/fonts/Alagard_22_Sharp.spritefont"
+    },
+    {
+      "Font Name": "Alagard_24_Sharp",
+      "Font Filepath": "data/fonts/Alagard_24_Sharp.spritefont"
+    }
+  ]
+}

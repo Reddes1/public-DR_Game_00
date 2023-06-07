@@ -1,0 +1,564 @@
+{
+  "Enemy Data": [
+    {
+      "Name": "Skeletal Warrior 00",
+      "Unique ID": 0,
+
+      "Stats": {
+        "Base Health": 8,
+        "Base Movespeed": 100,
+        "Base Damage": 6,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.25
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 12, 13, 20, 21, 22, 23 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.50, 0.50 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 43.5,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+    {
+      "Name": "Skeletal Warrior 01",
+      "Unique ID": 1,
+
+      "Stats": {
+        "Base Health": 25,
+        "Base Movespeed": 75,
+        "Base Damage": 9,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.35
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 12, 13, 20, 21, 22, 23 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.50, 0.50 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 43.5,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+    {
+      "Name": "Skeletal Warrior 02",
+      "Unique ID": 2,
+
+
+      "Stats": {
+        "Base Health": 100,
+        "Base Movespeed": 75,
+        "Base Damage": 12,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 0.5,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.45
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 12, 13, 20, 21, 22, 23 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.66, 0.66 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 43.5,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "Name": "Skeletal Chief 00",
+      "Unique ID": 3,
+
+      "Stats": {
+        "Base Health": 15,
+        "Base Movespeed": 85,
+        "Base Damage": 8,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.25
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 14, 15, 16, 17, 18, 19 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.50, 0.50 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 39.0,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+    {
+      "Name": "Skeletal Chief 01",
+      "Unique ID": 4,
+
+      "Stats": {
+        "Base Health": 75,
+        "Base Movespeed": 85,
+        "Base Damage": 12,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.35
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 14, 15, 16, 17, 18, 19 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.50, 0.50 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 39.0,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+    {
+      "Name": "Skeletal Chief 02",
+      "Unique ID": 5,
+
+      "Stats": {
+        "Base Health": 150,
+        "Base Movespeed": 85,
+        "Base Damage": 16,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.45
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 14, 15, 16, 17, 18, 19 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.66, 0.66 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 39.0,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "Name": "Skeletal Archer 00",
+      "Unique ID": 6,
+
+      "Stats": {
+        "Base Health": 10,
+        "Base Movespeed": 85,
+        "Base Damage": 6,
+        "Base XP Value": 1,
+        "Attack Interval": 10.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.25
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 6, 7, 8, 9, 10, 11 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.50, 0.50 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 34.5,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+    {
+      "Name": "Skeletal Archer 01",
+      "Unique ID": 7,
+
+      "Stats": {
+        "Base Health": 50,
+        "Base Movespeed": 85,
+        "Base Damage": 10,
+        "Base XP Value": 1,
+        "Attack Interval": 10.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.35
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 6, 7, 8, 9, 10, 11 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.66, 0.66 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 34.5,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+    {
+      "Name": "Skeletal Archer 02",
+      "Unique ID": 8,
+
+      "Stats": {
+        "Base Health": 150,
+        "Base Movespeed": 85,
+        "Base Damage": 12,
+        "Base XP Value": 1,
+        "Attack Interval": 7.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.45
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 6, 7, 8, 9, 10, 11 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.50, 0.50 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 34.5,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "Name": "Feral Wolf 00",
+      "Unique ID": 9,
+
+      "Stats": {
+        "Base Health": 25,
+        "Base Movespeed": 100,
+        "Base Damage": 8,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.25
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 24, 25, 26, 27, 28, 29 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.50, 0.50 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 46.2,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+    {
+      "Name": "Feral Wolf 01",
+      "Unique ID": 10,
+
+      "Stats": {
+        "Base Health": 100,
+        "Base Movespeed": 100,
+        "Base Damage": 12,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.35
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 24, 25, 26, 27, 28, 29 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.50, 0.50 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 46.2,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+    {
+      "Name": "Feral Wolf 02",
+      "Unique ID": 11,
+
+      "Stats": {
+        "Base Health": 175,
+        "Base Movespeed": 100,
+        "Base Damage": 18,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.45
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 24, 25, 26, 27, 28, 29 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.50, 0.50 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 46.2,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "Name": "Robot 00",
+      "Unique ID": 12,
+
+      "Stats": {
+        "Base Health": 225,
+        "Base Movespeed": 85,
+        "Base Damage": 15,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.65
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 0, 1, 2, 3, 4, 5 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.66, 0.66 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 58,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+    {
+      "Name": "Robot 01",
+      "Unique ID": 13,
+
+      "Stats": {
+        "Base Health": 550,
+        "Base Movespeed": 85,
+        "Base Damage": 20,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.65
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 0, 1, 2, 3, 4, 5 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.66, 0.66 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 58,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    },
+    {
+      "Name": "Robot 02",
+      "Unique ID": 14,
+
+      "Stats": {
+        "Base Health": 1750,
+        "Base Movespeed": 85,
+        "Base Damage": 25,
+        "Base XP Value": 1,
+        "Attack Interval": 1.0,
+
+        "Freeze Res Mod": 1.0,
+        "Knockback Res Mod": 1.0,
+
+        "Knockback Duration": 0.15,
+        "Knockback Immunity Window": 0.65
+      },
+
+      "Flags": {
+        "Slow Res": false,
+        "Instant Death Res": false
+      },
+
+      "Texture Info": {
+        "Texture Name": "Enemy_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 0, 1, 2, 3, 4, 5 ]
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 1.0, 1.0 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 58,
+        "Collision Box": [ 0.0, 0.0 ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Character Data": [
+    {
+      "Name": "Knight",
+      "Unique ID": 0,
+
+      "Stats": {
+        "Base Health": 130,
+        "Base Movespeed": 300,
+        "Armour": 3,
+        "Regen Per/5": 2,
+        "Extra Projectile Count": 0,
+
+        "Weapon Damage Mod": 1.0,
+        "Weapon Cooldown Mod": 1.0,
+        "Weapon Projectile Speed Mod": 1.0,
+        "Weapon AoE Mod": 1.0,
+        "Weapon Duration Mod": 1.0,
+        "Weapon Knockback Mod": 1.0,
+        "Pickup Range Mod": 1.0,
+        "Movespeed Mod": 1.0
+      },
+
+      "Flags": {
+
+      },
+
+      "Texture Info": {
+        "Texture Name": "Character_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 6, 7, 8, 9, 10, 11 ]
+      },
+
+      "Gameplay": {
+        "Starting Weapon ID": 1,
+        "Ability ID": 204
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.66, 0.66 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 30.0,
+        "Collision Box": [ 64.0, 104.0 ]
+      },
+
+      "Character Info": {
+        "Weapon Icon Texture Name": "UI_00",
+        "Weapon Frame ID": 20,
+        "Character Image Texture Name": "UI_00",
+        "Character Image ID": 28,
+        "Character Description": "The Knight is a durable fighter, starting with higher base\nhealth, armour, and regen.",
+        "Relative Weapon ID": 1,
+        "Relative Ability ID": 14
+      }
+    },
+
+    {
+      "Name": "Gunner",
+      "Unique ID": 1,
+
+      "Stats": {
+        "Base Health": 100,
+        "Base Movespeed": 300,
+        "Armour": 1,
+        "Regen Per/5": 1,
+        "Extra Projectile Count": 1,
+
+        "Weapon Damage Mod": 1.0,
+        "Weapon Cooldown Mod": 1.0,
+        "Weapon Projectile Speed Mod": 1.0,
+        "Weapon AoE Mod": 1.0,
+        "Weapon Duration Mod": 1.0,
+        "Weapon Knockback Mod": 1.0,
+        "Pickup Range Mod": 1.0,
+        "Movespeed Mod": 1.0
+      },
+
+      "Flags": {
+
+      },
+
+      "Texture Info": {
+        "Texture Name": "Character_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 0, 1, 2, 3, 4, 5 ]
+      },
+
+      "Gameplay": {
+        "Starting Weapon ID": 2,
+        "Ability ID": 201
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.66, 0.66 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 30.0,
+        "Collision Box": [ 44.0, 96.0 ]
+      },
+
+      "Character Info": {
+        "Weapon Icon Texture Name": "UI_00",
+        "Weapon Frame ID": 14,
+        "Character Image Texture Name": "UI_00",
+        "Character Image ID": 26,
+        "Character Description": "The Gunner is a proficient weapons specialist, starting with\n+1 projectiles.",
+        "Relative Weapon ID": 2,
+        "Relative Ability ID": 11
+      }
+    },
+
+    {
+      "Name": "Mage",
+      "Unique ID": 2,
+
+      "Stats": {
+        "Base Health": 70,
+        "Base Movespeed": 330,
+        "Armour": 1,
+        "Regen Per/5": 1,
+        "Extra Projectile Count": 0,
+
+        "Weapon Damage Mod": 1.3,
+        "Weapon Cooldown Mod": 1.0,
+        "Weapon Projectile Speed Mod": 1.0,
+        "Weapon AoE Mod": 1.0,
+        "Weapon Duration Mod": 1.0,
+        "Weapon Knockback Mod": 1.0,
+        "Pickup Range Mod": 1.0,
+        "Movespeed Mod": 1.0
+      },
+
+      "Flags": {
+
+      },
+
+      "Texture Info": {
+        "Texture Name": "Character_SS_00",
+        "Animated": true,
+        "Non-Animated ID": 0,
+        "Animated IDs": [ 12, 13, 14, 15, 18, 19, 16, 17 ]
+      },
+
+      "Gameplay": {
+        "Starting Weapon ID": 4,
+        "Ability ID": 203
+      },
+
+      "Misc": {
+        "Scale Adjustments": [ 0.66, 0.66 ],
+        "Collision Type ID": 0,
+        "Collision Radius": 30.0,
+        "Collision Box": [ 42.0, 104.0 ]
+      },
+
+      "Character Info": {
+        "Weapon Icon Texture Name": "UI_00",
+        "Weapon Frame ID": 1,
+        "Character Image Texture Name": "UI_00",
+        "Character Image ID": 30,
+        "Character Description": "The Mage fragile yet powerful combatant, boasting\nhigher innate damage & movespeed at the cost of max health.",
+        "Relative Weapon ID": 4,
+        "Relative Ability ID": 13
+      }
+    }
+  ]
+}

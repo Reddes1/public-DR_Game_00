@@ -1,0 +1,1908 @@
+{
+  "frames": [
+
+    {
+      "filename": "Animated/Bomb/Bomb_Explode/Bomb_Explode_00.png",
+      "frame": {
+        "x": 675,
+        "y": 1,
+        "w": 42,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 13,
+        "w": 42,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.695652
+      }
+    },
+    {
+      "filename": "Animated/Bomb/Bomb_Idle_00/Bomb_Idle_00.png",
+      "frame": {
+        "x": 1921,
+        "y": 1,
+        "w": 42,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 2,
+        "w": 42,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 58
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.741379
+      }
+    },
+    {
+      "filename": "Animated/Bomb/Bomb_Idle_00/Bomb_Idle_01.png",
+      "frame": {
+        "x": 1965,
+        "y": 1,
+        "w": 42,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 0,
+        "w": 42,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 42,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.75
+      }
+    },
+    {
+      "filename": "Animated/energyV001effect_alter/energyV001effect000.png",
+      "frame": {
+        "x": 1,
+        "y": 87,
+        "w": 164,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 164,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/energyV001effect_alter/energyV001effect001.png",
+      "frame": {
+        "x": 167,
+        "y": 95,
+        "w": 164,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 164,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/energyV001effect_alter/energyV001effect002.png",
+      "frame": {
+        "x": 333,
+        "y": 109,
+        "w": 164,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 164,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/energyV001effect_alter/energyV001effect003.png",
+      "frame": {
+        "x": 499,
+        "y": 111,
+        "w": 164,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 164,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/energyV001effect_alter/energyV001effect004.png",
+      "frame": {
+        "x": 665,
+        "y": 113,
+        "w": 164,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 164,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/energyV001effect_alter/energyV001effect005.png",
+      "frame": {
+        "x": 831,
+        "y": 115,
+        "w": 164,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 164,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/energyV001effect_alter/energyV001effect006.png",
+      "frame": {
+        "x": 997,
+        "y": 121,
+        "w": 164,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 164,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 164,
+        "h": 164
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/explosionV001effect/explosionV001effect000.png",
+      "frame": {
+        "x": 1,
+        "y": 261,
+        "w": 264,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/explosionV001effect/explosionV001effect001.png",
+      "frame": {
+        "x": 267,
+        "y": 277,
+        "w": 264,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/explosionV001effect/explosionV001effect002.png",
+      "frame": {
+        "x": 533,
+        "y": 279,
+        "w": 264,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/explosionV001effect/explosionV001effect003.png",
+      "frame": {
+        "x": 799,
+        "y": 287,
+        "w": 264,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/explosionV001effect/explosionV001effect004.png",
+      "frame": {
+        "x": 1065,
+        "y": 305,
+        "w": 264,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 264,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 264,
+        "h": 272
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/explosionV001effect/explosionV001effect005.png",
+      "frame": {
+        "x": 1327,
+        "y": 129,
+        "w": 174,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 43,
+        "w": 174,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.534483,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "Animated/explosionV001effect/explosionV001effect006.png",
+      "frame": {
+        "x": 1503,
+        "y": 129,
+        "w": 170,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 43,
+        "w": 170,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.523529,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "Animated/explosionV001effect/explosionV001effect007.png",
+      "frame": {
+        "x": 1675,
+        "y": 129,
+        "w": 170,
+        "h": 174
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 43,
+        "w": 170,
+        "h": 174
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 174
+      },
+      "pivot": {
+        "x": 0.523529,
+        "y": 0.534483
+      }
+    },
+    {
+      "filename": "Animated/explosionV001effect/explosionV001effect008.png",
+      "frame": {
+        "x": 1847,
+        "y": 133,
+        "w": 178,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 39,
+        "w": 178,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 178
+      },
+      "pivot": {
+        "x": 0.544944,
+        "y": 0.544944
+      }
+    },
+    {
+      "filename": "Animated/explosionV001effect/explosionV001effect009.png",
+      "frame": {
+        "x": 1163,
+        "y": 129,
+        "w": 162,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 43,
+        "w": 162,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.549383,
+        "y": 0.560241
+      }
+    },
+    {
+      "filename": "Animated/Flying_Dagger/Flying_Dagger_00.png",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 35,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 13
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Flying_Dagger/Flying_Dagger_01.png",
+      "frame": {
+        "x": 38,
+        "y": 1,
+        "w": 35,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 13
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Flying_Dagger/Flying_Dagger_02.png",
+      "frame": {
+        "x": 75,
+        "y": 1,
+        "w": 35,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 13
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Flying_Dagger/Flying_Dagger_03.png",
+      "frame": {
+        "x": 112,
+        "y": 1,
+        "w": 35,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 35,
+        "h": 13
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Active/Hex_Active_0.png",
+      "frame": {
+        "x": 1,
+        "y": 16,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Active/Hex_Active_1.png",
+      "frame": {
+        "x": 63,
+        "y": 16,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Active/Hex_Active_2.png",
+      "frame": {
+        "x": 683,
+        "y": 49,
+        "w": 62,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Active/Hex_Active_3.png",
+      "frame": {
+        "x": 747,
+        "y": 49,
+        "w": 62,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Active/Hex_Active_4.png",
+      "frame": {
+        "x": 811,
+        "y": 49,
+        "w": 62,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Active/Hex_Active_5.png",
+      "frame": {
+        "x": 875,
+        "y": 51,
+        "w": 62,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Active/Hex_Active_6.png",
+      "frame": {
+        "x": 939,
+        "y": 51,
+        "w": 62,
+        "h": 62
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 62
+      },
+      "sourceSize": {
+        "w": 62,
+        "h": 62
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Active/Hex_Active_7.png",
+      "frame": {
+        "x": 125,
+        "y": 25,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Active/Hex_Active_8.png",
+      "frame": {
+        "x": 187,
+        "y": 27,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Despawn/Hex_Despawn_0.png",
+      "frame": {
+        "x": 249,
+        "y": 27,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Despawn/Hex_Despawn_1.png",
+      "frame": {
+        "x": 311,
+        "y": 33,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Despawn/Hex_Despawn_2.png",
+      "frame": {
+        "x": 373,
+        "y": 35,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Despawn/Hex_Despawn_3.png",
+      "frame": {
+        "x": 435,
+        "y": 47,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_0.png",
+      "frame": {
+        "x": 195,
+        "y": 1,
+        "w": 40,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 19,
+        "w": 40,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 24
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_1.png",
+      "frame": {
+        "x": 237,
+        "y": 1,
+        "w": 40,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 19,
+        "w": 40,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 24
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_2.png",
+      "frame": {
+        "x": 279,
+        "y": 1,
+        "w": 40,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 19,
+        "w": 40,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 24
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_3.png",
+      "frame": {
+        "x": 491,
+        "y": 1,
+        "w": 40,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 9,
+        "w": 40,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_4.png",
+      "frame": {
+        "x": 533,
+        "y": 1,
+        "w": 40,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 9,
+        "w": 40,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_5.png",
+      "frame": {
+        "x": 575,
+        "y": 1,
+        "w": 40,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 9,
+        "w": 40,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_6.png",
+      "frame": {
+        "x": 617,
+        "y": 1,
+        "w": 56,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 9,
+        "w": 56,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_7.png",
+      "frame": {
+        "x": 719,
+        "y": 1,
+        "w": 56,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 8,
+        "w": 56,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_8.png",
+      "frame": {
+        "x": 1407,
+        "y": 1,
+        "w": 56,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 3,
+        "w": 56,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_9.png",
+      "frame": {
+        "x": 1465,
+        "y": 1,
+        "w": 56,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 3,
+        "w": 56,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_10.png",
+      "frame": {
+        "x": 1523,
+        "y": 1,
+        "w": 56,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 3,
+        "w": 56,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_11.png",
+      "frame": {
+        "x": 1581,
+        "y": 1,
+        "w": 56,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 3,
+        "w": 56,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_12.png",
+      "frame": {
+        "x": 1639,
+        "y": 1,
+        "w": 56,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 3,
+        "w": 56,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_13.png",
+      "frame": {
+        "x": 497,
+        "y": 47,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_14.png",
+      "frame": {
+        "x": 559,
+        "y": 47,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Hex/Hex_Spawn/Hex_Spawn_15.png",
+      "frame": {
+        "x": 621,
+        "y": 49,
+        "w": 60,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 60,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Whip/Whip_Effect_00.png",
+      "frame": {
+        "x": 1205,
+        "y": 1,
+        "w": 200,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 18,
+        "w": 200,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 50
+      },
+      "pivot": {
+        "x": 0.485,
+        "y": 0.32
+      }
+    },
+    {
+      "filename": "Animated/Whip/Whip_Effect_01.png",
+      "frame": {
+        "x": 1275,
+        "y": 59,
+        "w": 207,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 207,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 207,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.507246,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Whip/Whip_Effect_02.png",
+      "frame": {
+        "x": 1484,
+        "y": 59,
+        "w": 202,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 0,
+        "w": 202,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.480198,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Whip/Whip_Effect_03.png",
+      "frame": {
+        "x": 1688,
+        "y": 59,
+        "w": 188,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 0,
+        "w": 188,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.441489,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Whip/Whip_Effect_04.png",
+      "frame": {
+        "x": 1878,
+        "y": 63,
+        "w": 144,
+        "h": 68
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 0,
+        "w": 144,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 68
+      },
+      "pivot": {
+        "x": 0.340278,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Animated/Whip/Whip_Effect_05.png",
+      "frame": {
+        "x": 1003,
+        "y": 51,
+        "w": 134,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 2,
+        "w": 134,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 66
+      },
+      "pivot": {
+        "x": 0.291045,
+        "y": 0.484848
+      }
+    },
+    {
+      "filename": "Animated/Whip/Whip_Effect_06.png",
+      "frame": {
+        "x": 1139,
+        "y": 53,
+        "w": 134,
+        "h": 66
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 2,
+        "w": 134,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 134,
+        "h": 66
+      },
+      "pivot": {
+        "x": 0.291045,
+        "y": 0.484848
+      }
+    },
+    {
+      "filename": "Animated/Whip/Whip_Effect_07.png",
+      "frame": {
+        "x": 1697,
+        "y": 1,
+        "w": 110,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 12,
+        "w": 110,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.190909,
+        "y": 0.392857
+      }
+    },
+    {
+      "filename": "Animated/Whip/Whip_Effect_08.png",
+      "frame": {
+        "x": 1809,
+        "y": 1,
+        "w": 110,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 8,
+        "w": 110,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 56
+      },
+      "pivot": {
+        "x": 0.154545,
+        "y": 0.464286
+      }
+    },
+    {
+      "filename": "Animated/Whip/Whip_Effect_09.png",
+      "frame": {
+        "x": 777,
+        "y": 1,
+        "w": 110,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 12,
+        "w": 110,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.154545,
+        "y": 0.478261
+      }
+    },
+    {
+      "filename": "Non_Animated/Axe_48x48.png",
+      "frame": {
+        "x": 889,
+        "y": 1,
+        "w": 48,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Non_Animated/Book_48x48.png",
+      "frame": {
+        "x": 939,
+        "y": 1,
+        "w": 38,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 0,
+        "w": 38,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Non_Animated/Bullet_00.png",
+      "frame": {
+        "x": 321,
+        "y": 1,
+        "w": 30,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 30,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 30
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Non_Animated/Bullet_01.png",
+      "frame": {
+        "x": 353,
+        "y": 1,
+        "w": 30,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 30,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 30
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Non_Animated/Bullet_02.png",
+      "frame": {
+        "x": 385,
+        "y": 1,
+        "w": 30,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 1,
+        "w": 30,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 30
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Non_Animated/Cross_96x96.png",
+      "frame": {
+        "x": 451,
+        "y": 1,
+        "w": 38,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 38,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Non_Animated/Cross_OLD_32x32.png",
+      "frame": {
+        "x": 417,
+        "y": 1,
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Non_Animated/Dagger_44x22.png",
+      "frame": {
+        "x": 149,
+        "y": 1,
+        "w": 44,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 22
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Non_Animated/Whip_224x48.png",
+      "frame": {
+        "x": 979,
+        "y": 1,
+        "w": 224,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 224,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 224,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "Animations": [
+    {
+      "Animation Name": "Bomb_Explode_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 0,
+      "Animation End": 0,
+      "Animation Speed": 2,
+
+      "Animation Length": 1
+    },
+    {
+      "Animation Name": "Bomb_Idle_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 1,
+      "Animation End": 2,
+      "Animation Speed": 8,
+
+      "Animation Length": 2
+    },
+    {
+      "Animation Name": "Aura_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 3,
+      "Animation End": 9,
+      "Animation Speed": 6,
+
+      "Animation Length": 7
+    },
+    {
+      "Animation Name": "Bomb_Explosion_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 10,
+      "Animation End": 19,
+      "Animation Speed": 12,
+
+      "Animation Length": 10
+    },
+    {
+      "Animation Name": "Flying_Dagger_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 20,
+      "Animation End": 23,
+      "Animation Speed": 12,
+
+      "Animation Length": 4
+    },
+    {
+      "Animation Name": "Hex_00_Active",
+      "Animation Type ID": 0,
+
+      "Animation Start": 24,
+      "Animation End": 32,
+      "Animation Speed": 12,
+
+      "Animation Length": 9
+    },
+    {
+      "Animation Name": "Hex_00_Despawn",
+      "Animation Type ID": 0,
+
+      "Animation Start": 33,
+      "Animation End": 36,
+      "Animation Speed": 12,
+
+      "Animation Length": 4
+    },
+    {
+      "Animation Name": "Hex_00_Spawn",
+      "Animation Type ID": 0,
+
+      "Animation Start": 37,
+      "Animation End": 52,
+      "Animation Speed": 12,
+
+      "Animation Length": 16
+    },
+    {
+      "Animation Name": "Whip_00",
+      "Animation Type ID": 0,
+
+      "Animation Start": 53,
+      "Animation End": 62,
+      "Animation Speed": 16,
+
+      "Animation Length": 10
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Weapon_SS_00.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}

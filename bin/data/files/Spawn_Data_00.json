@@ -1,0 +1,2735 @@
+{
+  "Wave Patterns": [
+    {
+      "Pattern Name": "Map_00_Pattern_00",
+      "Unique ID": 0,
+      "Waves Count": 30,
+
+      "Waves": [
+
+        {
+          "Wave Number": 0,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 0,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 0,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 2.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 10.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 1,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 0,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 3,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 2.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 2,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 3,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.75,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 12,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 100.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": true,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": true,
+                "Force Item Drop": true,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 3,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 1,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 5.0,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 3,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.75,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 4,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 1,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.6,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 9,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 3.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 19.9,
+                "Spawn Count": 20,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 1,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 5,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 1,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.6,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 9,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 6,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 0,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 5.0,
+                "Spawn Count": 18,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 100.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 60.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": true,
+                "Force Item Drop": true,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 7,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 1,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 3.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 3.0,
+                "Spawn Count": 10,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 1,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 4,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 3.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 2.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 3.0,
+                "Spawn Count": 10,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 8,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 1,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 2.5,
+                "Spawn Count": 12,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 10,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 15.0,
+                "Spawn Count": 15,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 9,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 1,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 2.0,
+                "Spawn Count": 8,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 4,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 7,
+              "Behaviour Type ID": 2,
+              "Pool Location ID": 1,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 30.0,
+                "Spawn Count": 10,
+                "Spawn Delay": 15.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": true,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 10,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 2,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 0.8,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 2.0,
+                "Spawn Count": 12,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 50.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 60.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": true,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": true,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 50.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 30.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": true,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": true,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 11,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 2,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 0.8,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 3.0,
+                "Spawn Count": 15,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 10,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 0.8,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 2.0,
+                "Spawn Count": 4,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 12,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 2,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 0.85,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 7,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 7,
+              "Behaviour Type ID": 2,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 15.0,
+                "Spawn Count": 10,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": true,
+
+                "Special Spawn Override": true,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 13,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 4,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 3.0,
+                "Spawn Count": 15,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 10,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 0.9,
+                "Movespeed Mod": 3.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 10.0,
+                "Spawn Count": 15,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 14,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 100.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 60.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": true,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": true,
+                "Force Item Drop": true,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 14,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 1,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 5.0,
+                "Spawn Count": 50,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 0.7,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 5.0,
+                "Spawn Count": 50,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 15,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 8,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 3.5,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 15.0,
+                "Spawn Count": 40,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": true,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 1,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 16,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 4,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 4,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 7,
+              "Behaviour Type ID": 2,
+              "Pool Location ID": 1,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 15.0,
+                "Spawn Count": 10,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": true,
+
+                "Special Spawn Override": true,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 17,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.5,
+                "Spawn Count": 10,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.4,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 14,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 200.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 60.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": true,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": true,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 14,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 0.7,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 100.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 20.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": true,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 18,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 2,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 9,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 10,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 14,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 100.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": true,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": true,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 19,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": false,
+              "Mods": {
+                "Health Mod": 1.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 10,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": true,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 0.6,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 5.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 15.0,
+                "Spawn Count": 15,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": true,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+
+
+        {
+          "Wave Number": 20,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.10,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.5,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.10,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.15,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 7.5,
+                "Spawn Count": 80,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 21,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.2,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.5,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.2,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.2,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 7.5,
+                "Spawn Count": 80,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 22,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.3,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.5,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.3,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.25,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 7.5,
+                "Spawn Count": 80,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 23,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.4,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.5,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.4,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.4,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 7.5,
+                "Spawn Count": 80,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 24,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.5,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.5,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.5,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.45,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 7.5,
+                "Spawn Count": 80,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 25,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.6,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.5,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.6,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.6,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 7.5,
+                "Spawn Count": 80,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 26,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.7,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.5,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.7,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.65,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 7.5,
+                "Spawn Count": 80,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 27,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.8,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.5,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.8,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.8,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 7.5,
+                "Spawn Count": 80,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 28,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.9,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.5,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.9,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 1.85,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 7.5,
+                "Spawn Count": 80,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        },
+
+        {
+          "Wave Number": 29,
+          "Wave Entries": [
+            {
+              "Enemy Data ID": 5,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 2.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 0.5,
+                "Spawn Count": 5,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 13,
+              "Behaviour Type ID": 0,
+              "Pool Location ID": 0,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 2.0,
+                "Movespeed Mod": 1.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 1.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 1.0,
+                "Spawn Count": 1,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            },
+            {
+              "Enemy Data ID": 11,
+              "Behaviour Type ID": 3,
+              "Pool Location ID": 1,
+
+              "Mods Used": true,
+              "Mods": {
+                "Health Mod": 2.0,
+                "Movespeed Mod": 2.0,
+                "Damage Mod": 1.0,
+                "XP Mod": 0.0,
+                "Scale Mod": 1.0
+              },
+
+              "Spawning": {
+                "Spawn Interval": 7.5,
+                "Spawn Count": 80,
+                "Spawn Delay": 0.0,
+
+                "Instant Spawn": false,
+                "Spawn Once": false,
+
+                "Special Spawn Override": false,
+                "Spawn Location ID": 0,
+                "Special Spawn Location ID": 0
+              },
+
+              "Misc": {
+                "Drops Chest": false,
+                "Force Item Drop": false,
+                "Despawn At Wave End": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

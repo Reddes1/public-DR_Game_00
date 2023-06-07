@@ -1,0 +1,90 @@
+{
+  "Textures": [
+    {
+      "Texture Name": "Testing_Texture_00",
+      "Texture Filepath": "data/textures/misc/Testing_Texture_00.dds",
+
+      "Frames Filepath": "data/textures/misc/Testing_Texture_00.json"
+    },
+    {
+      "Texture Name": "Anim_Test_SS_00",
+      "Texture Filepath": "data/textures/sprites/Anim_Test_SS_00.dds",
+
+      "Frames Filepath": "data/textures/sprites/Anim_Test_SS_00.json"
+    },
+    {
+      "Texture Name": "Test_BG_00",
+      "Texture Filepath": "data/textures/backgrounds/RB_WP_00.dds"
+    },
+    {
+      "Texture Name": "BK_UI_Atlas_00",
+      "Texture Filepath": "data/textures/ui/BK_UI_Bundle_00.dds",
+
+      "Frames Filepath": "data/textures/ui/BK_UI_Bundle_00.json"
+    },
+    {
+      "Texture Name": "Tropics_00",
+      "Texture Filepath": "data/textures/tilemaps/Tropical_Tileset_00.dds"
+    },
+    {
+      "Texture Name": "Weapon_SS_00",
+      "Texture Filepath": "data/textures/sprites/Weapon_SS_00.dds",
+
+      "Frames Filepath": "data/textures/sprites/Weapon_SS_00.json"
+    },
+    {
+      "Texture Name": "Weapon_SS_01",
+      "Texture Filepath": "data/textures/sprites/Weapon_SS_01.dds",
+
+      "Frames Filepath": "data/textures/sprites/Weapon_SS_01.json"
+    },
+    {
+      "Texture Name": "Grassland_Tileset_00",
+      "Texture Filepath": "data/textures/tilemaps/Grassland_Tileset_00.dds"
+    },
+    {
+      "Texture Name": "Cave_Tileset_00",
+      "Texture Filepath": "data/textures/tilemaps/Cave_Tileset_00.dds"
+    },
+    {
+      "Texture Name": "Character_SS_00",
+      "Texture Filepath": "data/textures/sprites/Character_SS_00.dds",
+
+      "Frames Filepath": "data/textures/sprites/Character_SS_00.json"
+    },
+    {
+      "Texture Name": "Enemy_SS_00",
+      "Texture Filepath": "data/textures/sprites/Enemy_SS_00.dds",
+
+      "Frames Filepath": "data/textures/sprites/Enemy_SS_00.json"
+    },
+    {
+      "Texture Name": "Effects_SS_00",
+      "Texture Filepath": "data/textures/sprites/Effects_SS_00.dds",
+
+      "Frames Filepath": "data/textures/sprites/Effects_SS_00.json"
+    },
+    {
+      "Texture Name": "UI_00",
+      "Texture Filepath": "data/textures/ui/UI_00.dds",
+
+      "Frames Filepath": "data/textures/ui/UI_00.json"
+    },
+    {
+      "Texture Name": "Backdrop_00",
+      "Texture Filepath": "data/textures/backgrounds/backdrop_00.dds"
+    },
+    {
+      "Texture Name": "TitleScreen_00",
+      "Texture Filepath": "data/textures/backgrounds/TitleScreen_00.dds"
+    },
+    {
+      "Texture Name": "MainMenu_00",
+      "Texture Filepath": "data/textures/backgrounds/MainMenu_00.dds"
+    },
+    {
+      "Texture Name": "Controls_00",
+      "Texture Filepath": "data/textures/backgrounds/Controls_00.dds"
+    }
+  ]
+}

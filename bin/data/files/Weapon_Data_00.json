@@ -1,0 +1,1471 @@
+{
+  "Weapon Data": [
+    {
+      "Name": "Cross",
+      "Unique ID": 0,
+
+      "Stats": {
+        "Base Damage": 5,
+        "Base Projectile Speed": 600,
+        "Base Cooldown": 2.0,
+        "Interval Cooldown": 0.12,
+        "Base Projectile Count": 1,
+        "Base Knockback": 0,
+
+        "Base Collision Count": 9999,
+        "Base Lifetime": 9999,
+        "Re-Hit Delay": 1.0
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 7,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 10%.",
+                "Stat Index": 20,
+                "Value": 0.10
+              },
+              {
+                "Description": "Increase projectile speed by 25%.",
+                "Stat Index": 24,
+                "Value": 0.25
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 10%.",
+                "Stat Index": 20,
+                "Value": 0.10
+              },
+              {
+                "Description": "Increase projectile speed by 25%.",
+                "Stat Index": 24,
+                "Value": 0.25
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 10.",
+                "Stat Index": 15,
+                "Value": 5
+              },
+              {
+                "Description": "Increase base area by 10%.",
+                "Stat Index": 20,
+                "Value": 0.10
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 10.",
+                "Stat Index": 15,
+                "Value": 10
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 6,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "A fast moving projectile with \na boomerang effect."
+      }
+    },
+
+    {
+      "Name": "Lightning Whip",
+      "Unique ID": 1,
+
+      "Stats": {
+        "Base Damage": 10,
+        "Base Projectile Speed": 0,
+        "Base Cooldown": 2.0,
+        "Interval Cooldown": 0.10,
+        "Base Projectile Count": 2,
+        "Base Knockback": 400,
+
+        "Base Collision Count": 999,
+        "Base Lifetime": 0.15,
+        "Re-Hit Delay": 1.0
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 7,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              },
+              {
+                "Description": "Increase base area by 10%.",
+                "Stat Index": 20,
+                "Value": 0.10
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              },
+              {
+                "Description": "Increase base area by 10%.",
+                "Stat Index": 20,
+                "Value": 0.10
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 10%.",
+                "Stat Index": 20,
+                "Value": 0.10
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 10.",
+                "Stat Index": 15,
+                "Value": 10
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 20,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "A lightning fast weapon that strikes\nhorizontally through all enemies."
+      }
+    },
+
+    {
+      "Name": "Throwing Knives",
+      "Unique ID": 2,
+
+      "Stats": {
+        "Base Damage": 4,
+        "Base Projectile Speed": 1000,
+        "Base Cooldown": 1.5,
+        "Interval Cooldown": 0.12,
+        "Base Projectile Count": 2,
+        "Base Knockback": 0,
+
+        "Base Collision Count": 2,
+        "Base Lifetime": 9999,
+        "Re-Hit Delay": 1.0
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 7,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              },
+              {
+                "Description": "Pierces 1 additional time.",
+                "Stat Index": 19,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 5
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Level Effects": [
+              {
+                "Description": "Pierces 1 additional time.",
+                "Stat Index": 19,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 14,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Rapidly throws knives the faced\ndirection."
+      }
+    },
+
+    {
+      "Name": "Living Bomb",
+      "Unique ID": 3,
+
+      "Stats": {
+        "Base Damage": 2,
+        "Base Projectile Speed": 3,
+        "Base Cooldown": 2,
+        "Interval Cooldown": 0.15,
+        "Base Projectile Count": 1,
+        "Base Knockback": 2,
+
+        "Base Collision Count": 9999,
+        "Base Lifetime": 2,
+        "Re-Hit Delay": 0.28
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 7,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 1.",
+                "Stat Index": 15,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 2.",
+                "Stat Index": 15,
+                "Value": 2
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 10%.",
+                "Stat Index": 20,
+                "Value": 0.10
+              },
+              {
+                "Description": "Reduce base cooldown by 10%.",
+                "Stat Index": 22,
+                "Value": 0.10
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 20%.",
+                "Stat Index": 20,
+                "Value": 0.20
+              },
+              {
+                "Description": "Reduce base cooldown by 10%.",
+                "Stat Index": 22,
+                "Value": 0.10
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 2.",
+                "Stat Index": 15,
+                "Value": 2
+              },
+              {
+                "Description": "Increase base area by 20%.",
+                "Stat Index": 20,
+                "Value": 0.20
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 2.",
+                "Stat Index": 15,
+                "Value": 2
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 5.",
+                "Stat Index": 15,
+                "Value": 2
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 2,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "An arcane powered bomb that\nexplodes after a delay."
+      }
+    },
+
+    {
+      "Name": "Barrier Aura",
+      "Unique ID": 4,
+
+      "Stats": {
+        "Base Damage": 6,
+        "Base Projectile Speed": 0,
+        "Base Cooldown": 2.0,
+        "Interval Cooldown": 1,
+        "Base Projectile Count": 1,
+        "Base Knockback": 0,
+
+        "Base Collision Count": 9999,
+        "Base Lifetime": 1,
+        "Re-Hit Delay": 0.8
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 7,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 20%.",
+                "Stat Index": 20,
+                "Value": 0.20
+              },
+              {
+                "Description": "Reduce base cooldown by 10%.",
+                "Stat Index": 22,
+                "Value": 0.10
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 4.",
+                "Stat Index": 15,
+                "Value": 4
+              },
+              {
+                "Description": "Increase base area by 20%.",
+                "Stat Index": 20,
+                "Value": 0.20
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 40%.",
+                "Stat Index": 20,
+                "Value": 0.40
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 4.",
+                "Stat Index": 15,
+                "Value": 4
+              },
+              {
+                "Description": "Increase base area by 20%.",
+                "Stat Index": 20,
+                "Value": 0.20
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 20%.",
+                "Stat Index": 20,
+                "Value": 0.20
+              },
+              {
+                "Description": "Reduce base cooldown by 10%.",
+                "Stat Index": 22,
+                "Value": 0.10
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 4.",
+                "Stat Index": 15,
+                "Value": 4
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 8.",
+                "Stat Index": 15,
+                "Value": 8
+              },
+              {
+                "Description": "Adds Knockback Effect.",
+                "Stat Index": 17,
+                "Value": 600
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 1,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Emits low, but frequent damage\naround the player."
+      }
+    },
+
+    {
+      "Name": "Blessed Book",
+      "Unique ID": 5,
+
+      "Stats": {
+        "Base Damage": 3,
+        "Base Projectile Speed": 200,
+        "Base Cooldown": 7,
+        "Interval Cooldown": 1,
+        "Base Projectile Count": 2,
+        "Base Knockback": 225,
+
+        "Base Collision Count": 9999,
+        "Base Lifetime": 4,
+        "Re-Hit Delay": 1.5
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 7,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 3.",
+                "Stat Index": 15,
+                "Value": 3
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile speed by 25%.",
+                "Stat Index": 18,
+                "Value": 0.25
+              },
+              {
+                "Description": "Increase base area by 20%.",
+                "Stat Index": 20,
+                "Value": 0.20
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 3.",
+                "Stat Index": 15,
+                "Value": 3
+              },
+              {
+                "Description": "Increase duration by 12%.",
+                "Stat Index": 21,
+                "Value": 0.12
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile speed by 25%.",
+                "Stat Index": 18,
+                "Value": 0.25
+              },
+              {
+                "Description": "Increase base area by 20%.",
+                "Stat Index": 20,
+                "Value": 0.20
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 3.",
+                "Stat Index": 15,
+                "Value": 3
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 3.",
+                "Stat Index": 15,
+                "Value": 3
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 3,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Creates several orbiting books\naround the player."
+      }
+    },
+
+    {
+      "Name": "Heavy Axe",
+      "Unique ID": 6,
+
+      "Stats": {
+        "Base Damage": 10,
+        "Base Projectile Speed": 900,
+        "Base Cooldown": 2.5,
+        "Interval Cooldown": 0.2,
+        "Base Projectile Count": 2,
+        "Base Knockback": 350,
+
+        "Base Collision Count": 3,
+        "Base Lifetime": 9999,
+        "Re-Hit Delay": 1.5
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 7,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 10.",
+                "Stat Index": 15,
+                "Value": 10
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Pierces 1 additional time.",
+                "Stat Index": 19,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 10.",
+                "Stat Index": 15,
+                "Value": 10
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Level Effects": [
+              {
+                "Description": "Pierces 1 additional time.",
+                "Stat Index": 19,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 20.",
+                "Stat Index": 15,
+                "Value": 20
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "Weapon_SS_00",
+        "Animated": false,
+        "Frame ID": 63,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "High damage, high cooldown \nweapon that is tossed upwards."
+      }
+    },
+
+    {
+      "Name": "Hex-Laden Boots",
+      "Unique ID": 7,
+
+      "Stats": {
+        "Base Damage": 8,
+        "Base Projectile Speed": 0,
+        "Base Cooldown": 2.0,
+        "Interval Cooldown": 0.2,
+        "Base Projectile Count": 2,
+        "Base Knockback": 0,
+
+        "Base Collision Count": 9999,
+        "Base Lifetime": 3,
+        "Re-Hit Delay": 1.0
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 7,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 4.",
+                "Stat Index": 15,
+                "Value": 4
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 25%.",
+                "Stat Index": 20,
+                "Value": 0.25
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 25%.",
+                "Stat Index": 20,
+                "Value": 0.25
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase duration by 10%.",
+                "Stat Index": 21,
+                "Value": 0.10
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 4.",
+                "Stat Index": 15,
+                "Value": 8
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Level Effects": [
+              {
+                "Description": "Increase base area by 25%.",
+                "Stat Index": 20,
+                "Value": 0.25
+              },
+              {
+                "Description": "Increase duration by 10%.",
+                "Stat Index": 21,
+                "Value": 0.10
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 10.",
+                "Stat Index": 15,
+                "Value": 10
+              },
+              {
+                "Description": "Increase base area by 25%.",
+                "Stat Index": 20,
+                "Value": 0.25
+              },
+              {
+                "Description": "Increase duration by 10%.",
+                "Stat Index": 21,
+                "Value": 0.10
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 8,
+        "Scale": [ 0.75, 0.75 ]
+      },
+
+      "Misc": {
+        "Description": "Delayed damaging zone\ndropped at the players feet."
+      }
+    },
+
+    {
+      "Name": "Lightning",
+      "Unique ID": 8,
+
+      "Stats": {
+        "Base Damage": 10,
+        "Base Projectile Speed": 0,
+        "Base Cooldown": 2.5,
+        "Interval Cooldown": 0.2,
+        "Base Projectile Count": 1,
+        "Base Knockback": 0,
+
+        "Base Collision Count": 999,
+        "Base Lifetime": 999,
+        "Re-Hit Delay": 1.5
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 7,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 2,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 10.",
+                "Stat Index": 15,
+                "Value": 10
+              }
+            ]
+          },
+          {
+            "Level": 3,
+            "Level Effects": [
+              {
+                "Description": "Pierces 1 additional time.",
+                "Stat Index": 19,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 4,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 5,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 10.",
+                "Stat Index": 15,
+                "Value": 10
+              }
+            ]
+          },
+          {
+            "Level": 6,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          },
+          {
+            "Level": 7,
+            "Level Effects": [
+              {
+                "Description": "Increase base damage by 20.",
+                "Stat Index": 15,
+                "Value": 20
+              },
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": true,
+        "Frame ID": 15,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "A Beam of lightning that strikes from the sky onto an enemy"
+      }
+    },
+
+
+
+
+
+    {
+      "Name": "Super Charger",
+      "Unique ID": 100,
+
+      "Stats": {
+        "Base Damage": 80,
+        "Base Projectile Speed": 650,
+        "Base Cooldown": 1,
+        "Interval Cooldown": 1,
+        "Base Projectile Count": 32,
+        "Base Knockback": 0,
+
+        "Base Collision Count": 9999,
+        "Base Lifetime": 4,
+        "Re-Hit Delay": 1.5
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 1,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 47,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Creates super powerfull balls of fire that deal a great amount of damage."
+      }
+    },
+
+
+
+
+
+    {
+      "Name": "Heaven-on-High Projectile",
+      "Unique ID": 200,
+
+      "Stats": {
+        "Base Damage": 45,
+        "Base Projectile Speed": 800,
+        "Base Cooldown": 90.0,
+        "Interval Cooldown": 0.10,
+        "Base Projectile Count": 50,
+        "Base Knockback": 0,
+
+        "Base Collision Count": 2,
+        "Base Lifetime": 5,
+        "Re-Hit Delay": 1.0
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 1,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "Weapon_SS_01",
+        "Animated": true,
+        "Frame ID": 3,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "."
+      }
+    },
+
+    {
+      "Name": "Bullet Hell Gate",
+      "Unique ID": 201,
+
+      "Stats": {
+        "Base Damage": 30,
+        "Base Projectile Speed": 800,
+        "Base Cooldown": 90.0,
+        "Interval Cooldown": 0.10,
+        "Base Projectile Count": 50,
+        "Base Knockback": 0,
+
+        "Base Collision Count": 2,
+        "Base Lifetime": 5,
+        "Re-Hit Delay": 1.0
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 1,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": true,
+        "Frame ID": 5,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Opens a gate to a bullet hell, producing several projectiles"
+      }
+    },
+
+    {
+      "Name": "Bullet Hell Projectile",
+      "Unique ID": 202,
+
+      "Stats": {
+        "Base Damage": 12,
+        "Base Projectile Speed": 800,
+        "Base Cooldown": 180.0,
+        "Interval Cooldown": 1,
+        "Base Projectile Count": 50,
+        "Base Knockback": 0,
+
+        "Base Collision Count": 3,
+        "Base Lifetime": 5,
+        "Re-Hit Delay": 1.0
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 1,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "Weapon_SS_01",
+        "Animated": true,
+        "Frame ID": 4,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Opens a gate to a bullet hell, producing several projectiles."
+      }
+    },
+
+    {
+      "Name": "Water Dragon",
+      "Unique ID": 203,
+
+      "Stats": {
+        "Base Damage": 45,
+        "Base Projectile Speed": 0,
+        "Base Cooldown": 120.0,
+        "Interval Cooldown": 1,
+        "Base Projectile Count": 1,
+        "Base Knockback": 1300,
+
+        "Base Collision Count": 9999,
+        "Base Lifetime": 5,
+        "Re-Hit Delay": 0.5
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 1,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 19,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Creates a water dragon that orbits the player,\ndealing heavy damage and knocking back."
+      }
+    },
+
+    {
+      "Name": "Heaven-on-High Angel",
+      "Unique ID": 204,
+
+      "Stats": {
+        "Base Damage": 100,
+        "Base Projectile Speed": 0,
+        "Base Cooldown": 150.0,
+        "Interval Cooldown": 0.15,
+        "Base Projectile Count": 50,
+        "Base Knockback": 0,
+
+        "Base Collision Count": 9999,
+        "Base Lifetime": 9999,
+        "Re-Hit Delay": 1.2
+      },
+
+      "Flags": {
+
+      },
+
+      "Level Up Details": {
+
+        "Max Level": 1,
+        "Level Breakdown": [
+          {
+            "Level": 1,
+            "Level Effects": [
+              {
+                "Description": "Increase projectile count by 1.",
+                "Stat Index": 18,
+                "Value": 1
+              }
+            ]
+          }
+        ]
+      },
+
+      "Icon Info": {
+        "Texture Name": "UI_00",
+        "Animated": false,
+        "Frame ID": 1,
+        "Scale": [ 1.0, 1.0 ]
+      },
+
+      "Misc": {
+        "Description": "Invokes the fury of the heavens to bombard the area."
+      }
+    }
+  ]
+}

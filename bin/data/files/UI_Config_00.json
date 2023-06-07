@@ -1,0 +1,1112 @@
+{
+  "Non-Navigational UI Elements": [
+    {
+
+    }
+  ],
+  "Fixed-Navigational UI Elements": [
+    {
+
+    }
+  ],
+  "Custom UI Elements": [
+    {
+      "Unique ID": 0,
+      "UI Name": "Level_Selection_Menu_00",
+
+      "Menu Offset X": 500.0,
+      "Menu Offset Y": 0.0,
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Option_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 956.0,
+          "Pos Y": 540.0,
+          "Frame ID": 49,
+          "Scale X": 0.8,
+          "Scale Y": 0.8,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Current_Selection_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 1440.0,
+          "Pos Y": 540.0,
+          "Frame ID": 50,
+          "Scale X": 0.8,
+          "Scale Y": 0.8,
+          "Origin ID": 7
+        }
+      ],
+      "Texts": [
+        {
+          "Text Name": "Option Name",
+          "Text String": "Equipment Name",
+          "Offset X": -164.0,
+          "Offset Y": -188.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Option Level",
+          "Text String": "Lv: 1",
+          "Offset X": 134.0,
+          "Offset Y": -144.0,
+          "Origin ID": 7,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Option Description",
+          "Text String": "This does a thing.",
+          "Offset X": -170.0,
+          "Offset Y": 84.0,
+          "Origin ID": 0,
+          "Font ID": 11
+        }
+      ],
+
+      "Window Text": {
+
+        "Text Name": "Level Selection Title",
+        "Text String": "Choose One!",
+        "Pos X": 960.0,
+        "Pos Y": 220.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    },
+
+    {
+      "Unique ID": 1,
+      "UI Name": "Player_Information_UI_00",
+
+      "Frame Setup": {
+
+        "Health Frames": [
+          {
+            "Frame Name": "Health_Inner_Bar",
+            "Texture Name": "UI_00",
+            "Pos X": 42.0,
+            "Pos Y": 904.0,
+            "Frame ID": 62,
+            "Scale X": 1.0,
+            "Scale Y": 1.5,
+            "Origin ID": 1
+          },
+          {
+            "Frame Name": "Health_Outer_Frame",
+            "Texture Name": "UI_00",
+            "Pos X": 39.0,
+            "Pos Y": 904.0,
+            "Frame ID": 63,
+            "Scale X": 1.0,
+            "Scale Y": 1.5,
+            "Origin ID": 1
+          },
+          {
+            "Frame Name": "Health_Heart_Frame",
+            "Texture Name": "UI_00",
+            "Pos X": 24.0,
+            "Pos Y": 904.0,
+            "Frame ID": 44,
+            "Scale X": 1.25,
+            "Scale Y": 1.25,
+            "Origin ID": 7
+          }
+        ],
+
+        "Ability Frames": [
+          {
+            "Frame Name": "Ability_Inner_Bar",
+            "Texture Name": "UI_00",
+            "Pos X": 42.0,
+            "Pos Y": 934.0,
+            "Frame ID": 48,
+            "Scale X": 1.0,
+            "Scale Y": 1.5,
+            "Origin ID": 1
+          },
+          {
+            "Frame Name": "Ability_Outer_Frame",
+            "Texture Name": "UI_00",
+            "Pos X": 39.0,
+            "Pos Y": 934.0,
+            "Frame ID": 63,
+            "Scale X": 1.0,
+            "Scale Y": 1.5,
+            "Origin ID": 1
+          }
+        ],
+
+        "Weapon Frames": {
+          "Frame Name": "Weapon_Frames",
+          "Texture Name": "UI_00",
+          "Pos X": 40.0,
+          "Pos Y": 980.0,
+          "Frame ID": 65,
+          "Scale X": 1,
+          "Scale Y": 1,
+          "Origin ID": 7,
+
+          "Offset X": 64.0,
+          "Offset Y": 0.0,
+
+          "Text Font ID": 6,
+          "Text Origin ID": 0,
+          "Text Offset X": -28.0,
+          "Text Offset Y": 6.0
+        },
+
+        "Accessory Frames": {
+          "Frame Name": "Accessory_Frames",
+          "Texture Name": "UI_00",
+          "Pos X": 40.0,
+          "Pos Y": 1044.0,
+          "Frame ID": 65,
+          "Scale X": 1,
+          "Scale Y": 1,
+          "Origin ID": 7,
+
+          "Offset X": 64.0,
+          "Offset Y": 0.0,
+
+          "Text Font ID": 6,
+          "Text Origin ID": 0,
+          "Text Offset X": -28.0,
+          "Text Offset Y": 6.0
+        }
+      },
+
+      "Texts": [
+        {
+          "Text Name": "Health",
+          "Text String": "100/100",
+          "Pos X": 208,
+          "Pos Y": 905,
+          "Origin ID": 7,
+          "Font ID": 7
+        },
+        {
+          "Text Name": "Regen",
+          "Text String": "+1",
+          "Pos X": 378,
+          "Pos Y": 905,
+          "Origin ID": 4,
+          "Font ID": 7
+        },
+        {
+          "Text Name": "Ability CD",
+          "Text String": "100/100",
+          "Pos X": 208,
+          "Pos Y": 935,
+          "Origin ID": 7,
+          "Font ID": 7
+        }
+      ]
+    },
+
+    {
+      "Unique ID": 2,
+      "UI Name": "Player_Experience_UI_00",
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Experience_Outer_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 32.0,
+          "Frame ID": 52,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Experience_Inner_Bar",
+          "Texture Name": "UI_00",
+          "Pos X": 19.0,
+          "Pos Y": 32.0,
+          "Frame ID": 51,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 1
+        }
+      ],
+      "Texts": [
+        {
+          "Text Name": "Level",
+          "Text String": "Lv: 0",
+          "Pos X": 1894.0,
+          "Pos Y": 34.0,
+          "Origin ID": 4,
+          "Font ID": 6
+        },
+        {
+          "Text Name": "Timer",
+          "Text String": "00:00",
+          "Pos X": 960.0,
+          "Pos Y": 78.0,
+          "Origin ID": 7,
+          "Font ID": 9
+        },
+        {
+          "Text Name": "Kill Count",
+          "Text String": "",
+          "Pos X": 32.0,
+          "Pos Y": 54.0,
+          "Origin ID": 0,
+          "Font ID": 7
+        }
+      ]
+    },
+
+    {
+      "Unique ID": 3,
+      "UI Name": "Main_Menu_00",
+
+      "Menu Offset X": 0.0,
+      "Menu Offset Y": 128.0,
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Option_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 1560.0,
+          "Pos Y": 384.0,
+          "Frame ID": 68,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Current_Selection_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 1560.0,
+          "Pos Y": 384.0,
+          "Frame ID": 69,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Texts": [
+        {
+          "Text Name": "Play Button",
+          "Text String": "Play",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Volume Controls",
+          "Text String": "Volume Controls",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Controls",
+          "Text String": "Controls",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Quit Button",
+          "Text String": "Quit",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        }
+      ],
+
+      "Window Text": {
+
+        "Text Name": "Main Menu",
+        "Text String": "BUDGET SURVIVORS (NAME PENDING)",
+        "Pos X": 960.0,
+        "Pos Y": 192.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    },
+
+    {
+      "Unique ID": 4,
+      "UI Name": "Map_Selection_00",
+
+      "Menu Offset X": 320.0,
+      "Menu Offset Y": 0.0,
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Map_Option_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 480.0,
+          "Pos Y": 512.0,
+          "Frame ID": 73,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Map_Selection_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 480.0,
+          "Pos Y": 512.0,
+          "Frame ID": 58,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Title_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 192.0,
+          "Frame ID": 60,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Map Icons": [
+        {
+          "Frame Name": "Grassland_Icon",
+          "Texture Name": "UI_00",
+          "Pos X": 480.0,
+          "Pos Y": 512.0,
+          "Frame ID": 24,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Cave_Icon",
+          "Texture Name": "UI_00",
+          "Pos X": 480.0,
+          "Pos Y": 512.0,
+          "Frame ID": 22,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Texts": [
+        {
+          "Text Name": "PH",
+          "Text String": "PH",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 8
+        }
+      ],
+
+      "Window Text": {
+
+        "Text Name": "Map Selection Title",
+        "Text String": "Choose A Map",
+        "Pos X": 960.0,
+        "Pos Y": 192.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    },
+
+    {
+      "Unique ID": 5,
+      "UI Name": "Pause_Menu_00",
+
+      "Menu Offset X": 0.0,
+      "Menu Offset Y": 128.0,
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Option_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 1664.0,
+          "Pos Y": 256.0,
+          "Frame ID": 68,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Current_Selection_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 1664.0,
+          "Pos Y": 256.0,
+          "Frame ID": 69,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Stats_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 380.0,
+          "Pos Y": 540.0,
+          "Frame ID": 61,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Texts": [
+        {
+          "Text Name": "Resume_Button",
+          "Text String": "Resume",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Main_Menu_Button",
+          "Text String": "Main Menu",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Volume_Controls_Button",
+          "Text String": "Volume Controls",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Quit_Button",
+          "Text String": "Quit",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        }
+      ],
+      "Stat Texts": [
+        {
+          "Text Name": "Movespeed",
+          "Text String": "Movespeed: ",
+          "Offset X": -225.0,
+          "Offset Y": -275.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Movespeed Buff",
+          "Text String": "Movespeed Buff: ",
+          "Offset X": -225.0,
+          "Offset Y": -225.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Armour",
+          "Text String": "Armour: ",
+          "Offset X": -225.0,
+          "Offset Y": -175.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Pickup range",
+          "Text String": "Pickup Range: ",
+          "Offset X": -225.0,
+          "Offset Y": -125.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Pickup Range Buff",
+          "Text String": "Pickup Range Buff: ",
+          "Offset X": -225.0,
+          "Offset Y": -75.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Extra Projectiles",
+          "Text String": "Extra Projectiles: ",
+          "Offset X": -225.0,
+          "Offset Y": -25.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Damage Buff: ",
+          "Text String": "Damage Buff: ",
+          "Offset X": -225.0,
+          "Offset Y": 25.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Cooldown Reduction",
+          "Text String": "Cooldown Reduction: ",
+          "Offset X": -225.0,
+          "Offset Y": 75.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Projectile Speed Buff",
+          "Text String": "Projectile Speed Buff: ",
+          "Offset X": -225.0,
+          "Offset Y": 125.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "AoE Buff",
+          "Text String": "AoE Buff: ",
+          "Offset X": -225.0,
+          "Offset Y": 175.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Duration Buff",
+          "Text String": "Duration Buff: ",
+          "Offset X": -225.0,
+          "Offset Y": 225.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        },
+        {
+          "Text Name": "Knockback Buff",
+          "Text String": "Knockback Buff: ",
+          "Offset X": -225.0,
+          "Offset Y": 275.0,
+          "Origin ID": 1,
+          "Font ID": 13
+        }
+      ],
+      "Window Text": {
+
+        "Text Name": "Main Menu",
+        "Text String": "PAUSE",
+        "Pos X": 960.0,
+        "Pos Y": 192.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    },
+
+    {
+      "Unique ID": 6,
+      "UI Name": "GameOver_Menu_00",
+
+      "Menu Offset X": 0.0,
+      "Menu Offset Y": 128.0,
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Option_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 320.0,
+          "Frame ID": 68,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Current_Selection_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 320.0,
+          "Frame ID": 69,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Texts": [
+        {
+          "Text Name": "Main_Menu_Button",
+          "Text String": "Main Menu",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Quit_Button",
+          "Text String": "Quit",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        }
+      ],
+
+      "Window Text": {
+
+        "Text Name": "Game Over",
+        "Text String": "GAME OVER",
+        "Pos X": 960.0,
+        "Pos Y": 256.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    },
+
+    {
+      "Unique ID": 7,
+      "UI Name": "Character_Selection_00",
+
+      "Menu Offset X": 320.0,
+      "Menu Offset Y": 0.0,
+      "Text Offset X": 400.0,
+      "Text Offset Y": 60.0,
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Character_Option_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 640.0,
+          "Pos Y": 512.0,
+          "Frame ID": 71,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Character_Selection_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 640.0,
+          "Pos Y": 512.0,
+          "Frame ID": 57,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Title_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 192.0,
+          "Frame ID": 60,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Character_Info_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 888.0,
+          "Frame ID": 60,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Character Icons": [
+        {
+          "Frame Name": "Character_Image",
+          "Pos X": 640.0,
+          "Pos Y": 512.0,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Weapon_Icon",
+          "Pos X": 512.0,
+          "Pos Y": 888.0,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Texts": [
+        {
+          "Text Name": "Character Info",
+          "Origin ID": 1,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Weapon Info",
+          "Origin ID": 1,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Ability Info",
+          "Origin ID": 1,
+          "Font ID": 14
+        }
+      ],
+
+      "Window Text": {
+
+        "Text Name": "Character Selection Title",
+        "Text String": "Choose Your Character",
+        "Pos X": 960.0,
+        "Pos Y": 192.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    },
+
+    {
+      "Unique ID": 8,
+      "UI Name": "Volume Menu",
+
+      "Menu Offset X": 0.0,
+      "Menu Offset Y": 192.0,
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Volume Bar",
+          "Texture Name": "UI_00",
+          "Pos X": 787.0,
+          "Pos Y": 480.0,
+          "Frame ID": 62,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 1
+        },
+        {
+          "Frame Name": "Volume Bar Current",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 480.0,
+          "Frame ID": 63,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Title_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 192.0,
+          "Frame ID": 60,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Volume Name Frames": [
+        {
+          "Frame Name": "Master Volume",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 384.0,
+          "Frame ID": 68,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Music Volume",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 576.0,
+          "Frame ID": 68,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "SFX Volume",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 768.0,
+          "Frame ID": 68,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Texts": [
+        {
+          "Text Name": "Master Volume",
+          "Text String": "Master Volume",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Music Volume",
+          "Text String": "Music Volume",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "SFX Volume",
+          "Text String": "SFX Volume",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        }
+      ],
+
+      "Window Text": {
+
+        "Text Name": "Volume Controls",
+        "Text String": "Volume Controls",
+        "Pos X": 960.0,
+        "Pos Y": 192.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    },
+
+    {
+      "Unique ID": 9,
+      "UI Name": "TitleScreen_00",
+
+      "Menu Offset X": 320.0,
+      "Menu Offset Y": 0.0,
+
+      "Window Text": {
+
+        "Text Name": "Continue",
+        "Text String": "Press E to continue",
+        "Pos X": 960.0,
+        "Pos Y": 900.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    },
+
+    {
+      "Unique ID": 10,
+      "UI Name": "FNP_Player_00",
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Health_Back_Bar",
+          "Texture Name": "UI_00",
+          "Pos X": 910.0,
+          "Pos Y": 592.0,
+          "Frame ID": 54,
+          "Scale X": 1.0,
+          "Scale Y": 0.6,
+          "Origin ID": 1
+        },
+        {
+          "Frame Name": "Ability_Back_Bar",
+          "Texture Name": "UI_00",
+          "Pos X": 910.0,
+          "Pos Y": 598.0,
+          "Frame ID": 54,
+          "Scale X": 1.0,
+          "Scale Y": 0.6,
+          "Origin ID": 1
+        },
+        {
+          "Frame Name": "Health_Bar",
+          "Texture Name": "UI_00",
+          "Pos X": 910.0,
+          "Pos Y": 592.0,
+          "Frame ID": 55,
+          "Scale X": 1.0,
+          "Scale Y": 0.6,
+          "Origin ID": 1
+        },
+        {
+          "Frame Name": "Ability_Bar",
+          "Texture Name": "UI_00",
+          "Pos X": 910.0,
+          "Pos Y": 598.0,
+          "Frame ID": 53,
+          "Scale X": 1.0,
+          "Scale Y": 0.6,
+          "Origin ID": 1
+        }
+      ]
+
+    },
+
+    {
+      "Unique ID": 11,
+      "UI Name": "Pause Menu Volume",
+
+      "Menu Offset X": 0.0,
+      "Menu Offset Y": 192.0,
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Volume Bar",
+          "Texture Name": "UI_00",
+          "Pos X": 787.0,
+          "Pos Y": 480.0,
+          "Frame ID": 62,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 1
+        },
+        {
+          "Frame Name": "Volume Bar Current",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 480.0,
+          "Frame ID": 63,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Volume Name Frames": [
+        {
+          "Frame Name": "Master Volume",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 384.0,
+          "Frame ID": 68,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Music Volume",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 576.0,
+          "Frame ID": 68,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "SFX Volume",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 768.0,
+          "Frame ID": 68,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Texts": [
+        {
+          "Text Name": "Master Volume",
+          "Text String": "Master Volume",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Music Volume",
+          "Text String": "Music Volume",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "SFX Volume",
+          "Text String": "SFX Volume",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        }
+      ],
+
+      "Window Text": {
+
+        "Text Name": "Volume Controls",
+        "Text String": "Volume Controls",
+        "Pos X": 960.0,
+        "Pos Y": 192.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    },
+
+    {
+      "Unique ID": 12,
+      "UI Name": "Win Game",
+
+      "Menu Offset X": 0.0,
+      "Menu Offset Y": 128.0,
+
+      "Frame Setup": [
+        {
+          "Frame Name": "Option_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 320.0,
+          "Frame ID": 68,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        },
+        {
+          "Frame Name": "Current_Selection_Frame",
+          "Texture Name": "UI_00",
+          "Pos X": 960.0,
+          "Pos Y": 320.0,
+          "Frame ID": 69,
+          "Scale X": 1.0,
+          "Scale Y": 1.0,
+          "Origin ID": 7
+        }
+      ],
+      "Texts": [
+        {
+          "Text Name": "Main_Menu_Button",
+          "Text String": "Main Menu",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        },
+        {
+          "Text Name": "Quit_Button",
+          "Text String": "Quit",
+          "Offset X": 0.0,
+          "Offset Y": 0.0,
+          "Origin ID": 7,
+          "Font ID": 14
+        }
+      ],
+
+      "Window Text": {
+
+        "Text Name": "YOU WON",
+        "Text String": "YOU WON",
+        "Pos X": 960.0,
+        "Pos Y": 256.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    },
+
+    {
+      "Unique ID": 13,
+      "UI Name": "Controls_00",
+
+      "Menu Offset X": 320.0,
+      "Menu Offset Y": 0.0,
+
+      "Window Text": {
+
+        "Text Name": "Continue",
+        "Text String": "Press E to continue",
+        "Pos X": 960.0,
+        "Pos Y": 980.0,
+        "Origin ID": 7,
+        "Font ID": 14
+      }
+    }
+  ]
+}
